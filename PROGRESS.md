@@ -12,7 +12,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 - `world/` 世界観・地理・歴史・種族・勢力
 - `rules/` 判定・戦闘・魔法体系などのルール
 - `characters/` キャラクターシート(PC/NPC)
-- `characters/summons/` 契約召喚体(数十人分、キャラクターシート)
+- `characters/pc_summons/` 主人公が契約・召喚できる召喚体(数十人分、キャラクターシート。通常のNPCとは別枠)
 - `sessions/` セッションログ・プレイ履歴
 - `items/` アイテム・装備・魔法道具など
 
@@ -34,7 +34,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 | 8 | キャラクターシート雛形 | `characters/_template.md` | 受領済み |
 | 9 | あなたのPC(召喚士・後衛指揮官) | `characters/pc.md` | 受領済み(名前は未定) |
 | 5a | 契約召喚魔法(PCの中核システム) | `rules/04_summoning_magic.md` | 受領済み |
-| 9a | 契約召喚体(数十人) | `characters/summons/` | 27体受領(...睡蓮〜マモリ + クサビ・ラビリンス)、以後継続 |
+| 9a | 契約召喚体(数十人、主人公専用) | `characters/pc_summons/` | 27体受領(...睡蓮〜マモリ + クサビ・ラビリンス)、以後継続 |
 | 11 | モンスター分類・命名規則(基本種族90種+命名規則) | `world/04_monster_taxonomy.md` | 受領済み |
 | 12 | 文明人分類(第一〜第三文明人) | `world/05_civilization_classification.md` | 受領済み |
 | 13 | 経済・通貨システム(G/物価/クエスト報酬) | `world/06_economy.md` | 受領済み |
