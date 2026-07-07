@@ -30,7 +30,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 | 8 | キャラクターシート雛形 | `characters/_template.md` | 受領済み |
 | 9 | あなたのPC(召喚士・後衛指揮官) | `characters/pc.md` | 受領済み(名前は未定) |
 | 5a | 契約召喚魔法(PCの中核システム) | `rules/04_summoning_magic.md` | 受領済み |
-| 9a | 契約召喚体(数十人) | `characters/summons/` | 3体受領(睡蓮Lv48・青葉Lv47・蒼龍Lv49)、以後継続 |
+| 9a | 契約召喚体(数十人) | `characters/summons/` | 5体受領(睡蓮Lv48・青葉Lv47・蒼龍Lv49・水城Lv50・氷室Lv50)、以後継続 |
 | 10 | 導入シナリオ・最初のフック | `sessions/` | 未着手 ← 次はこれ |
 
 ## 次にお願いしたい項目
