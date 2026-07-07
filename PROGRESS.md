@@ -139,3 +139,4 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 - 天雷のコミュ変換をGPT版で受領・反映(characters/pc_summons/08_tenrai.md)。MP F/INT Eの弱気さとATK S/DEX Sの土壇場の強さという既存の対比が、コミュ変換でも「不安を抱えつつ土壇場で真っ直ぐ届く」として綺麗に踏襲されている。
 - 泡姫のコミュ変換をGPT版で受領・反映(characters/pc_summons/09_awahime.md)。HP Sの「包容力」への読み替えが、既存の「かつて死亡した女性の人格がコアとして全体を動かす」というダーク目な裏設定とも違和感なく共存している。
 - 白金のコミュ変換をGPT版で受領・反映(characters/pc_summons/10_hakkin.md)。ATK S/DEX Fの「善意が力加減できず空回りする」という既存の個性がそのまま活きている。
+- 銀雪のコミュ変換をGPT版で受領・反映(characters/pc_summons/11_ginsetsu.md)。DEF A/DEX Aが「動じない・受け止める」性格に自然に転換されており、既存の護衛キャラ性と一貫している良い例。
