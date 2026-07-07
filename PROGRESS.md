@@ -132,3 +132,4 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 - 睡蓮のコミュ変換をGPT版で受領・反映(characters/pc_summons/01_suiren.md)。各ランクに個別の言い回しが与えられており、「平均的」の乱用がない良い例。以後、この形式・粒度を他キャラの基準にする。
 - 青葉のコミュ変換をGPT版で受領・反映(characters/pc_summons/02_aoba.md)。睡蓮と同じく個別描写で「平均的」の乱用なし。
 - 蒼龍のコミュ変換をGPT版で受領・反映(characters/pc_summons/03_souryuu.md)。「恋愛にだけ弱い」という既存の裏設定もコミュプロフィールにそのまま引き継がれ、DEF Aとの対比が一貫している。
+- 水城のコミュ変換をGPT版で受領・反映(characters/pc_summons/04_mizushiro.md)。
