@@ -169,3 +169,7 @@
 ### 若手騎士・連絡役：ルカ・フェンネル
 
 領主騎士団に所属する若手騎士。ヴァレリアの部下で、主人公とクラリス側を繋ぐ現場連絡役になりやすい。詳細は`characters/npcs/05_luca_fennel.md`を参照。
+
+### 鍛冶師・武具職人：ガルム・フォージライト
+
+南区(`world/20_crossroad_city_districts.md`)に工房を構える腕利きの鍛冶師。武器修理・特注武具製作の窓口。詳細は`characters/npcs/06_galm_forgelight.md`を参照。
