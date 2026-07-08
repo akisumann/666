@@ -189,3 +189,7 @@
 ### 鍛冶師・武具職人：ガルム・フォージライト
 
 南区(`world/20_crossroad_city_districts.md`)に工房を構える腕利きの鍛冶師。武器修理・特注武具製作の窓口。詳細は`characters/npcs/06_galm_forgelight.md`を参照。
+
+### 浄化院の窓口：セリア
+
+中央区の浄化院に所属する若手神官。浄化依頼・軽治療・アンデッド相談の窓口担当。詳細は`characters/npcs/09_celia.md`を参照。
