@@ -1,4 +1,4 @@
-# 森林五竜
+# 森林五枝竜
 
 森林龍(`world/02_alvein_continent.md`)に連なる、五体の古き森の守護竜。エターナル・グローブ王国(`world/34_eternal_grove_kingdom.md`)でも最高位の存在として敬われている。
 
