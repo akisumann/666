@@ -254,3 +254,11 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 - `world/25_aqua_flow_union.md`：守護龍の参照先を`world/40_ocean_dragon.md`に更新。
 
 これで五龍(大地龍・火山龍・氷結龍・海洋龍・森林龍)のうち4体の詳細が出揃った。残るは森林龍本体のみ(森林五枝竜は既存)。
+
+## 2026-07-09 五龍：森林龍追加(五龍全体完了)
+
+- `world/41_forest_dragon.md`：Lv94 森林龍を追加。DEX:SS(例外ランク、`rules/02_status_system.md`)。遺伝子設計・生態系構築を司る古龍で、森林五枝竜(`world/36_forest_five_dragons.md`)の創造主。エターナル・グローブ王国(`world/34_eternal_grove_kingdom.md`)の強靭木材・強靭な森の生態系の源とされる。
+- `world/02_alvein_continent.md`：五龍一覧の森林龍の項目に詳細ファイルへのリンクを追加。
+- `world/34_eternal_grove_kingdom.md`・`world/36_forest_five_dragons.md`：守護龍の参照先を`world/41_forest_dragon.md`に更新。
+
+これで五龍(大地龍・火山龍・氷結龍・海洋龍・森林龍)全5体の詳細が出揃った。
