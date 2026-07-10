@@ -38,6 +38,8 @@
 
 合体奥義(`rules/08_synthesis_technique.md`)では、芍薬・泡姫・真白の精神を繋ぎ、統括制御として機能する一員となる(`characters/pc_summons/20_shakuyaku.md`の「岩縫竜」)。
 
+戦場ではマモリ・鈴代・唯一と共に「矯正パーティー」を組むことが多い(`rules/09_summon_tactical_parties.md`)。マモリの背後に隠れながらリンクを維持する立ち位置を取る。合体奥義とは別枠の編成。
+
 ## コミュ変換
 
 コミュ役割：聞き役・共感役・相談役
