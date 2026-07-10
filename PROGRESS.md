@@ -420,3 +420,19 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 
 - 「夜鴉の止まり木」(`world/49_crossroad_dining.md`)が、Bランク冒険者パーティー「銀鴉の羽根」の結成場所であることを追記。パーティー名が店名をもじったものであること、店奥の卓が常連から「銀鴉の席」と呼ばれていることを記録。
 - `characters/npcs/08_silver_raven_feather.md`に「結成の経緯」節を追加し、相互参照を繋げた。
+
+## 2026-07-10 相互リンク漏れの一斉点検・修正
+
+エージェントによる全リポジトリ横断調査で見つかった片方向リンク・リンク漏れ13件をすべて修正:
+
+1. `characters/npcs/07_dario_langford.md`：リエラへのリンク先誤り(world/11→本人ファイル)を修正。
+2. `characters/npcs/01_clarisse_weissfeld.md`：クロスロード(world/11)への参照を追加。
+3. `characters/npcs/03_valeria_grenz.md`：黒針会(world/32)からどう見られているかを追記。
+4. `characters/npcs/03_valeria_grenz.md`・`04_ada_lockwell.md`・`05_luca_fennel.md`：治安組織のレベル目安(world/31)への参照を追加。
+5. `world/32_black_needle_society.md`：「冒険者ギルド」の記述にworld/14へのリンクを追加。
+6. `world/37_earth_dragon.md`↔`world/15_central_haven_kingdom.md`・`world/18_religious_organizations.md`：相互参照を追加。
+7. `world/38〜41`(火山龍・氷結龍・海洋龍・森林龍)：大神殿(world/48)への参照を追加(大地龍のみ既存だった)。
+8. `characters/npcs/06_galm_forgelight.md`・`13_mika.md`：職人区商品カタログ(world/42)への参照を追加。
+9. `world/20_crossroad_city_districts.md`：カジノ(world/28)・飲食店群(world/49)への参照を追加。
+10. `characters/pc_summons/`11ファイル(仁礼・白金・天雷・飛鳥・鈴代・唯一・九重・マモリ・黒羽・琥珀・銀雪)：対応する`items/`ファイルへの「装備」参照を追加(逆方向は既存)。
+11. `world/27_crossroad_colosseum.md`・`world/28_crossroad_casino.md`：ロゼとリゼ(characters/npcs/12)への参照を追加。
