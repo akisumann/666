@@ -406,3 +406,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 ## 2026-07-10 大神殿関連データを取り消し
 
 - 本人より、直前の中央区大神殿関連のやり取り(2回分とも)がGPT側で別データと混同した誤情報だったと判明。`world/48_grand_temple_dragon_records.md`を削除し、`world/37_earth_dragon.md`・`world/20_crossroad_city_districts.md`・`world/02_alvein_continent.md`への関連する追記もすべて取り消して、大神殿関連の着手前の状態に戻した。正しいデータが届き次第、改めて追加する。
+
+## 2026-07-10 中央区大神殿を復元
+
+- 本人より、2回目に貼られた「中央区大神殿」データ(Lv95のまま、五龍は既存名称のみ使用)が正しい方だったと判明。誤って両方取り消していたため、`world/48_grand_temple_dragon_records.md`と`world/37_earth_dragon.md`・`world/20_crossroad_city_districts.md`・`world/02_alvein_continent.md`への相互参照を復元した。
