@@ -361,3 +361,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 ## 2026-07-10 マリナの通り名を修正
 
 - 「東区のマリナ」→「世話役のマリナ」に修正(`characters/npcs/11_marina.md`、`world/44_crossroad_nicknames.md`)。
+
+## 2026-07-10 リエラの通り名を修正
+
+- 「受付のリエラ」→「恋バナのリエラ」に修正(`characters/npcs/17_riera.md`、`world/44_crossroad_nicknames.md`)。恋愛脳でカップリング認定してくる性格をそのまま反映した呼び名にした。

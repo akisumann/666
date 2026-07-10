@@ -30,7 +30,7 @@
 | 舌のアスカ | アスカ | 黒針会幹部(`world/32_black_needle_society.md`) |
 | 刃のザラ | ザラ | 黒針会幹部(`characters/npcs/15_zara.md`) |
 | 黒針会のギデオン | ギデオン | 黒針会会主(`characters/npcs/16_gideon.md`) |
-| 受付のリエラ | リエラ | ギルド受付職員(`characters/npcs/17_riera.md`) |
+| 恋バナのリエラ | リエラ | ギルド受付職員(`characters/npcs/17_riera.md`) |
 | 魔法サークルのミレイ | ミレイ | 民間魔法サークルの取りまとめ役(`characters/npcs/18_milei.md`) |
 
 ## 独自の通り名を持つ者
