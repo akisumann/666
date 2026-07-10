@@ -14,7 +14,7 @@
 | 歓楽街のミレーヌ | ミレーヌ・ヴァイスフェルト | 歓楽街組合トップ(`characters/npcs/02_milene_weissfeld.md`) |
 | 衛兵隊のエイダ | エイダ・ロックウェル | 衛兵隊長(`characters/npcs/04_ada_lockwell.md`) |
 | 連絡役のルカ | ルカ・フェンネル | 若手騎士・現場連絡役(`characters/npcs/05_luca_fennel.md`) |
-| 鍛冶のガルム | ガルム・フォージライト | 鍛冶師・武具職人(`characters/npcs/06_galm_forgelight.md`) |
+| 鍛冶頭のガルム | ガルム・フォージライト | 鍛冶師・武具職人(`characters/npcs/06_galm_forgelight.md`) |
 | ギルド長のダリオ | ダリオ・ラングフォード | 冒険者ギルド支部長(`characters/npcs/07_dario_langford.md`) |
 | 銀鴉のレナ | レナ・アシュフォード | 「銀鴉の羽根」リーダー・前衛盾役(`characters/npcs/08_silver_raven_feather.md`) |
 | 銀鴉のシェリル | シェリル・ノックス | 「銀鴉の羽根」斥候(`characters/npcs/08_silver_raven_feather.md`) |

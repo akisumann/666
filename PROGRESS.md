@@ -353,3 +353,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 ## 2026-07-10 ミルカの通り名を修正
 
 - 「薬品のミルカ」→「ヘンテコ薬品のミルカ」に修正(`characters/npcs/13_mika.md`、`world/44_crossroad_nicknames.md`)。店頭に並ぶ変な薬のキャラ性がより伝わる呼び名にした。
+
+## 2026-07-10 ガルムの通り名を修正
+
+- 「鍛冶のガルム」→「鍛冶頭のガルム」に修正(`characters/npcs/06_galm_forgelight.md`、`world/44_crossroad_nicknames.md`)。
