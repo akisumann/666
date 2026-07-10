@@ -25,7 +25,7 @@
 | 東区のマリナ | マリナ | 生活区の世話役(`characters/npcs/11_marina.md`) |
 | 囮のロゼ | ロゼ | 盗人姉妹・囮役(`characters/npcs/12_roze_and_rize.md`) |
 | スリのリゼ | リゼ | 盗人姉妹・スリ役(`characters/npcs/12_roze_and_rize.md`) |
-| 薬品のミルカ | ミルカ | 薬品職人(`characters/npcs/13_mika.md`) |
+| ヘンテコ薬品のミルカ | ミルカ | 薬品職人(`characters/npcs/13_mika.md`) |
 | 耳目のミーナ | ミーナ | 黒針会幹部(`characters/npcs/14_mina.md`) |
 | 舌のアスカ | アスカ | 黒針会幹部(`world/32_black_needle_society.md`) |
 | 刃のザラ | ザラ | 黒針会幹部(`characters/npcs/15_zara.md`) |
