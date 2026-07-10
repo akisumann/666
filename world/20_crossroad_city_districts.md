@@ -409,7 +409,7 @@
 ### 概要
 
 森境街道側に広がる、クロスロードでもっとも夜が明るい区画。
-カジノ(詳細は`world/28_crossroad_casino.md`)、娼館通り、劇場、酒場、コロッセオ(詳細は`world/27_crossroad_colosseum.md`)、見世物小屋、情報屋、裏賭博場などが集まる。
+カジノ(詳細は`world/28_crossroad_casino.md`)、娼館通り(詳細は`world/50_crossroad_brothels.md`)、劇場、酒場、コロッセオ(詳細は`world/27_crossroad_colosseum.md`)、見世物小屋、情報屋、裏賭博場などが集まる。
 
 入口には、ここから先は治安が悪い区画であることを示す警告板が立っている。
 ただし西区は無法地帯ではない。

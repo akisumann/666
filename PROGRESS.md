@@ -436,3 +436,8 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 9. `world/20_crossroad_city_districts.md`：カジノ(world/28)・飲食店群(world/49)への参照を追加。
 10. `characters/pc_summons/`11ファイル(仁礼・白金・天雷・飛鳥・鈴代・唯一・九重・マモリ・黒羽・琥珀・銀雪)：対応する`items/`ファイルへの「装備」参照を追加(逆方向は既存)。
 11. `world/27_crossroad_colosseum.md`・`world/28_crossroad_casino.md`：ロゼとリゼ(characters/npcs/12)への参照を追加。
+
+## 2026-07-10 西区の主要娼館を新設
+
+- `world/50_crossroad_brothels.md`を新規作成。本人提示のデータを反映し、西区娼館通りの代表3軒を整理: 紅玻璃館(最高級・格式・秘密保持、貴族/大商人向け、5,000〜50,000G以上)、桃灯楼(大規模・大衆向け・安定、冒険者/職人向け、500〜5,000G)、百花迷宮(衣装・演出・趣向の豊富さ、富裕冒険者/常連向け、2,000〜20,000G以上)。共通規則(双方合意必須、暴力・薬物・武器禁止、問題客情報の店間共有)も整理し、歓楽街組合(ミレーヌ)の統括下にある業種として位置づけた。
+- `world/20_crossroad_city_districts.md`・`world/11_crossroad_city.md`・`characters/npcs/02_milene_weissfeld.md`に相互参照を追記。
