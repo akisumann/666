@@ -5,6 +5,7 @@
 - 立場：歓楽街組合トップ
 - 所属：クロスロード西区・歓楽街組合(`world/20_crossroad_city_districts.md`)
 - 関係：クラリス・ヴァイスフェルトの妹(`characters/npcs/01_clarisse_weissfeld.md`)
+- 通り名：歓楽街のミレーヌ
 
 ## ステータス
 
