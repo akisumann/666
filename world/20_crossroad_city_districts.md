@@ -21,6 +21,8 @@
 
 中央広場では、幅広い商品を浅く扱う「中央広場市」が開かれる。詳細は`world/45_crossroad_district_markets.md`を参照。
 
+年に一度、この一帯を舞台に婚活祭り「結び路の祝祭」が七日間開催される。詳細は`world/46_crossroad_matchmaking_festival.md`を参照。
+
 ### 主な役割
 
 - 都市行政
