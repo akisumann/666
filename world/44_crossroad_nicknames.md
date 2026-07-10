@@ -32,6 +32,7 @@
 | 黒針会のギデオン | ギデオン | 黒針会会主(`characters/npcs/16_gideon.md`) |
 | 恋バナのリエラ | リエラ | ギルド受付職員(`characters/npcs/17_riera.md`) |
 | 魔法サークルのミレイ | ミレイ | 民間魔法サークルの取りまとめ役(`characters/npcs/18_milei.md`) |
+| 赤巫女のロザリア | ロザリア | 紅玻璃館の筆頭花魁(`characters/npcs/19_rosalia.md`) |
 
 ## 独自の通り名を持つ者
 

@@ -330,3 +330,7 @@
 ### 民間術師会の取りまとめ役：ミレイ
 
 クロスロード民間魔法サークル(`world/43_crossroad_magic_circle.md`)の取りまとめ役。基礎魔法指導・魔法相談の窓口。詳細は`characters/npcs/18_milei.md`を参照。
+
+### 紅玻璃館の筆頭花魁：ロザリア
+
+西区の最高級娼館「紅玻璃館」(`world/50_crossroad_brothels.md`)の頂点に立つ花魁。精霊憑依と陰陽循環術を操る。詳細は`characters/npcs/19_rosalia.md`を参照。
