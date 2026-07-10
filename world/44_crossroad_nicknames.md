@@ -15,7 +15,7 @@
 | 衛兵隊のエイダ | エイダ・ロックウェル | 衛兵隊長(`characters/npcs/04_ada_lockwell.md`) |
 | 連絡役のルカ | ルカ・フェンネル | 若手騎士・現場連絡役(`characters/npcs/05_luca_fennel.md`) |
 | 鍛冶のガルム | ガルム・フォージライト | 鍛冶師・武具職人(`characters/npcs/06_galm_forgelight.md`) |
-| ギルドのダリオ | ダリオ・ラングフォード | 冒険者ギルド支部長(`characters/npcs/07_dario_langford.md`) |
+| ギルド長のダリオ | ダリオ・ラングフォード | 冒険者ギルド支部長(`characters/npcs/07_dario_langford.md`) |
 | 銀鴉のレナ | レナ・アシュフォード | 「銀鴉の羽根」リーダー・前衛盾役(`characters/npcs/08_silver_raven_feather.md`) |
 | 斥候のシェリル | シェリル・ノックス | 「銀鴉の羽根」斥候(`characters/npcs/08_silver_raven_feather.md`) |
 | 魔術師のイリス | イリス・ヴェルナー | 「銀鴉の羽根」魔術師(`characters/npcs/08_silver_raven_feather.md`) |
