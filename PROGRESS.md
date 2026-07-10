@@ -446,3 +446,8 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 
 - `characters/npcs/19_rosalia.md`を新規作成。Lv42、ステータス合計42(正確一致)、スキル合計21(Lv42の半分、正確一致)。紅玻璃館(`world/50_crossroad_brothels.md`)の頂点に立つ花魁で、精霊憑依と陰陽循環術による宴席演出を専門とする。通り名「赤巫女のロザリア」。館の精霊たちが清掃・浄化面を人の従業員と分担して支えているという設定も記録。
 - `world/50_crossroad_brothels.md`・`world/11_crossroad_city.md`・`world/44_crossroad_nicknames.md`に相互参照を追記。
+
+## 2026-07-10 桃灯楼の人気嬢「ベルナデッタ」を追加
+
+- `characters/npcs/20_bernadette.md`を新規作成。Lv36、ステータス合計35(diff-1、許容範囲)、スキル合計18(Lv36の半分、正確一致)。桃灯楼(`world/50_crossroad_brothels.md`)の犬獣人の人気嬢で、正式な権限を持たないまま街中の人脈を通じてミレーヌと並ぶ非公式な問題解決役として頼られている、という設定。通り名「呼び声のベル」。
+- `world/50_crossroad_brothels.md`・`world/11_crossroad_city.md`・`world/44_crossroad_nicknames.md`・`characters/npcs/02_milene_weissfeld.md`に相互参照を追記。ミレーヌ側には「正式な話ならミレーヌへ、今すぐ街を動かすならベルを呼べ」という街の言い回しごと記録。

@@ -334,3 +334,7 @@
 ### 紅玻璃館の筆頭花魁：ロザリア
 
 西区の最高級娼館「紅玻璃館」(`world/50_crossroad_brothels.md`)の頂点に立つ花魁。精霊憑依と陰陽循環術を操る。詳細は`characters/npcs/19_rosalia.md`を参照。
+
+### 桃灯楼の人気嬢：ベルナデッタ
+
+西区の大衆娼館「桃灯楼」(`world/50_crossroad_brothels.md`)の人気嬢。犬獣人で、街中に築いた広い人脈を通じて緊急時の招集役も担う。詳細は`characters/npcs/20_bernadette.md`を参照。
