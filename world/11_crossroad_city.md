@@ -338,3 +338,7 @@
 ### 桃灯楼の人気嬢：ベルナデッタ
 
 西区の大衆娼館「桃灯楼」(`world/50_crossroad_brothels.md`)の人気嬢。犬獣人で、街中に築いた広い人脈を通じて緊急時の招集役も担う。詳細は`characters/npcs/20_bernadette.md`を参照。
+
+### 百花迷宮の幻術娼婦・民間術師会の会員：エルシア
+
+昼は民間魔法サークル(`world/43_crossroad_magic_circle.md`)で研究に没頭する内気な魔法使い、夜は百花迷宮(`world/50_crossroad_brothels.md`)で完全変身の幻術娼婦。レベルキャップ到達済みのLv40。詳細は`characters/npcs/21_elsia.md`を参照。

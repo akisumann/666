@@ -455,3 +455,8 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 ## 2026-07-10 ベルナデッタの通り名を修正
 
 - 「呼び声のベル」→「呼び声のベルナデッタ」に修正(`characters/npcs/20_bernadette.md`、`world/44_crossroad_nicknames.md`、`world/50_crossroad_brothels.md`)。
+
+## 2026-07-10 二重生活のNPC「エルシア」を追加
+
+- `characters/npcs/21_elsia.md`を新規作成。Lv40(レベルキャップ到達済み、`rules/00_level_system.md`のキャップ制度と接続)、ステータス合計40(正確一致)、スキル合計20(Lv40の半分、正確一致)。昼は民間魔法サークル(`world/43`)で研究する内気な魔法使い「オタクのエルシア」、夜は百花迷宮(`world/50`)で完全人格変身を行う幻術娼婦「幻惑のエルシア」という二重生活を送るキャラクター。戦闘力をほぼ捨てて幻術研究に全振りした結果、娼館の一嬢としては不自然に高いレベルになっている、という説明も記録。
+- `world/50_crossroad_brothels.md`・`world/43_crossroad_magic_circle.md`・`world/11_crossroad_city.md`・`world/44_crossroad_nicknames.md`に相互参照を追記。通り名は文脈によって呼び方が変わる初のケースとして一覧表に両方併記した。
