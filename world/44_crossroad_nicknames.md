@@ -33,7 +33,7 @@
 | 恋バナのリエラ | リエラ | ギルド受付職員(`characters/npcs/17_riera.md`) |
 | 魔法サークルのミレイ | ミレイ | 民間魔法サークルの取りまとめ役(`characters/npcs/18_milei.md`) |
 | 赤巫女のロザリア | ロザリア | 紅玻璃館の筆頭花魁(`characters/npcs/19_rosalia.md`) |
-| 呼び声のベル | ベルナデッタ | 桃灯楼の人気嬢・街中連絡役(`characters/npcs/20_bernadette.md`) |
+| 呼び声のベルナデッタ | ベルナデッタ | 桃灯楼の人気嬢・街中連絡役(`characters/npcs/20_bernadette.md`) |
 
 ## 独自の通り名を持つ者
 

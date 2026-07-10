@@ -451,3 +451,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 
 - `characters/npcs/20_bernadette.md`を新規作成。Lv36、ステータス合計35(diff-1、許容範囲)、スキル合計18(Lv36の半分、正確一致)。桃灯楼(`world/50_crossroad_brothels.md`)の犬獣人の人気嬢で、正式な権限を持たないまま街中の人脈を通じてミレーヌと並ぶ非公式な問題解決役として頼られている、という設定。通り名「呼び声のベル」。
 - `world/50_crossroad_brothels.md`・`world/11_crossroad_city.md`・`world/44_crossroad_nicknames.md`・`characters/npcs/02_milene_weissfeld.md`に相互参照を追記。ミレーヌ側には「正式な話ならミレーヌへ、今すぐ街を動かすならベルを呼べ」という街の言い回しごと記録。
+
+## 2026-07-10 ベルナデッタの通り名を修正
+
+- 「呼び声のベル」→「呼び声のベルナデッタ」に修正(`characters/npcs/20_bernadette.md`、`world/44_crossroad_nicknames.md`、`world/50_crossroad_brothels.md`)。
