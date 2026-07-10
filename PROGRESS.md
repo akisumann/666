@@ -357,3 +357,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 ## 2026-07-10 ガルムの通り名を修正
 
 - 「鍛冶のガルム」→「鍛冶頭のガルム」に修正(`characters/npcs/06_galm_forgelight.md`、`world/44_crossroad_nicknames.md`)。
+
+## 2026-07-10 マリナの通り名を修正
+
+- 「東区のマリナ」→「世話役のマリナ」に修正(`characters/npcs/11_marina.md`、`world/44_crossroad_nicknames.md`)。
