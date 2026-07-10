@@ -19,8 +19,6 @@
 
 四本の主要街道が交差する中央広場を中心に、行政庁舎、衛兵本部、大神殿、浄化院(詳細は`world/30_crossroad_purification_institute.md`)、公式掲示板、馬車駅などが配置されている。行政庁舎には領主クラリス・ヴァイスフェルトが在籍する(`characters/npcs/01_clarisse_weissfeld.md`)。
 
-大神殿には、大地龍の個体記録・能力資料・歴史資料や、他の守護龍との比較資料を展示する施設がある。詳細は`world/48_grand_temple_dragon_records.md`を参照。
-
 中央広場では、幅広い商品を浅く扱う「中央広場市」が開かれる。詳細は`world/45_crossroad_district_markets.md`を参照。
 
 年に一度、この一帯を舞台に婚活祭り「結び路の祝祭」が七日間開催される。詳細は`world/46_crossroad_matchmaking_festival.md`を参照。
