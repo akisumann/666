@@ -2,7 +2,7 @@
 
 - 分類：武器
 - 所有者：仁礼(`characters/pc_summons/23_ninrei.md`)
-- 由来：双槌の聖戦修道女団の制式装備(`world/19_twin_hammer_order.md`)
+- 由来：双槌の聖戦修道女団の制式装備(`world/nations/19_twin_hammer_order.md`)
 
 ## 説明
 

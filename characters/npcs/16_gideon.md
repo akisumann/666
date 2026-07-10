@@ -3,7 +3,7 @@
 - 種族：人間
 - 年齢：68歳
 - レベル：44(冒険者ランク基準ではBランク相当。`world/14_adventurers_guild.md`)
-- 所属：黒針会(`world/32_black_needle_society.md`)
+- 所属：黒針会(`world/crossroad/32_black_needle_society.md`)
 - 役割：黒針会会主・最終裁定・幹部統制・裏社会の古狸
 - 通り名：黒針会のギデオン
 
@@ -53,7 +53,7 @@
 
 ギデオンは、黒針会の会主である。黒針会全体の最終裁定を担い、幹部たちを統制する老人。
 
-ミーナ(`characters/npcs/14_mina.md`)が街中の噂を拾い、アスカ(`world/32_black_needle_society.md`)が交渉で話をつけ、ザラ(`characters/npcs/15_zara.md`)が最後の刃として動く。ギデオンは、その全体を見て、どの案件を受けるか、誰を動かすか、どこで止めるかを決める。
+ミーナ(`characters/npcs/14_mina.md`)が街中の噂を拾い、アスカ(`world/crossroad/32_black_needle_society.md`)が交渉で話をつけ、ザラ(`characters/npcs/15_zara.md`)が最後の刃として動く。ギデオンは、その全体を見て、どの案件を受けるか、誰を動かすか、どこで止めるかを決める。
 
 本人の戦闘力は、黒針会幹部の中で高い方ではない。だが、誰を使えばいいか、どの情報を売ればいいか、どの相手を敵に回してはいけないかを読む力に優れている。黒針会の頭脳であり、古い裏社会の生き残りである。
 

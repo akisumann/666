@@ -3,7 +3,7 @@
 - 種族：蠍系獣人
 - 年齢：32歳
 - レベル：54(冒険者ランク基準ではAランク相当。`world/14_adventurers_guild.md`)
-- 所属：黒針会(`world/32_black_needle_society.md`)
+- 所属：黒針会(`world/crossroad/32_black_needle_society.md`)
 - 役割：刃の幹部・暗殺・追跡・毒針・裏切り者処理
 - 通り名：刃のザラ
 
@@ -49,13 +49,13 @@
 
 ザラは、黒針会の刃の幹部である。暗殺、追跡、裏切り者処理、危険人物排除、実働部隊の指揮を担当する。
 
-ミーナ(`characters/npcs/14_mina.md`)が情報を拾い、アスカ(`world/32_black_needle_society.md`)が話をつけ、それでも駄目な時にザラが動く。黒針会において、ザラは最後の手段に近い存在である。
+ミーナ(`characters/npcs/14_mina.md`)が情報を拾い、アスカ(`world/crossroad/32_black_needle_society.md`)が話をつけ、それでも駄目な時にザラが動く。黒針会において、ザラは最後の手段に近い存在である。
 
 ただし、派手に暴れる戦士ではない。静かに近づき、逃げ道を塞ぎ、必要な一撃だけを入れる処理役である。
 
 ### ミレーヌへの敗北
 
-かつて西区の支配権を巡り、ミレーヌ(`characters/npcs/02_milene_weissfeld.md`)とコロッセオ(`world/27_crossroad_colosseum.md`)で一対一の公開戦を行い、敗れている。本来はミレーヌを見せしめにするための処刑場だったが、逆に打ち破られた(詳細は`world/32_black_needle_society.md`の「コロッセオでの敗北」)。
+かつて西区の支配権を巡り、ミレーヌ(`characters/npcs/02_milene_weissfeld.md`)とコロッセオ(`world/crossroad/27_crossroad_colosseum.md`)で一対一の公開戦を行い、敗れている。本来はミレーヌを見せしめにするための処刑場だったが、逆に打ち破られた(詳細は`world/crossroad/32_black_needle_society.md`の「コロッセオでの敗北」)。
 
 処刑場として用意されたタイマンで負けた以上、言い訳はできない。ザラはミレーヌを嫌っているかどうかとは別に、西区トップとしての実力は認めている。
 

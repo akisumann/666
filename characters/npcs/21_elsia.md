@@ -3,7 +3,7 @@
 - 種族：人間
 - 年齢：25歳
 - レベル：40【レベルキャップ到達済み、`rules/00_level_system.md`】(冒険者ランク基準ではCランク相当。`world/14_adventurers_guild.md`)
-- 所属：百花迷宮(`world/50_crossroad_brothels.md`)／クロスロード民間魔法サークル(`world/43_crossroad_magic_circle.md`)
+- 所属：百花迷宮(`world/crossroad/50_crossroad_brothels.md`)／クロスロード民間魔法サークル(`world/crossroad/43_crossroad_magic_circle.md`)
 - 立場：幻術娼婦・変身術研究者
 - 役割：完全変身・人格演技・幻想空間演出
 - 通り名：魔法サークルでは「オタクのエルシア」、娼館では「幻惑のエルシア」

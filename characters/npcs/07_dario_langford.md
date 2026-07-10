@@ -3,7 +3,7 @@
 - 年齢：44歳
 - レベル：41(冒険者ランク基準ではBランク相当。`world/14_adventurers_guild.md`)
 - 立場：冒険者ギルド支部長
-- 所属：クロスロード北区・冒険者ギルド支部(`world/20_crossroad_city_districts.md`)
+- 所属：クロスロード北区・冒険者ギルド支部(`world/crossroad/20_crossroad_city_districts.md`)
 - 関係：クロスロードに出入りする冒険者の管理責任者
 - 通り名：ギルド長のダリオ
 

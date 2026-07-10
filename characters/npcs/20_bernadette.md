@@ -4,7 +4,7 @@
 - 年齢：26歳
 - レベル：36(冒険者ランク基準ではCランク相当。`world/14_adventurers_guild.md`)
 - 愛称：ベル
-- 所属：桃灯楼(`world/50_crossroad_brothels.md`)
+- 所属：桃灯楼(`world/crossroad/50_crossroad_brothels.md`)
 - 立場：人気嬢・街中連絡役
 - 役割：接客・常連管理・人脈形成・緊急時の招集
 - 通り名：呼び声のベルナデッタ

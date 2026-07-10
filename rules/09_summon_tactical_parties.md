@@ -4,9 +4,9 @@
 
 ## 統制パーティー・災害パーティーとの違い
 
-「統制パーティー」(睡蓮・蒼龍・青葉・水城)と「災害パーティー」(琥珀・白金・銀雪・妲己)は、本体側が実際に所属している組織の名前でもある(`world/25_aqua_flow_union.md`、`world/23_volcanic_forge_empire.md`)。契約分身たちが同じ名前で呼ばれるのは、本体と契約分身が同一人物であるため、本体側の所属をそのまま呼び名として引き継いでいるに過ぎない。
+「統制パーティー」(睡蓮・蒼龍・青葉・水城)と「災害パーティー」(琥珀・白金・銀雪・妲己)は、本体側が実際に所属している組織の名前でもある(`world/nations/25_aqua_flow_union.md`、`world/nations/23_volcanic_forge_empire.md`)。契約分身たちが同じ名前で呼ばれるのは、本体と契約分身が同一人物であるため、本体側の所属をそのまま呼び名として引き継いでいるに過ぎない。
 
-一方、以下の3つの小隊名は、本体側の所属とは無関係の、契約分身を戦場でどう組ませるかという純粋な戦術編成の呼び名である。契約分身の活動中も本体は本来の生活を送るという契約召喚魔法の性質上(`rules/04_summoning_magic.md`)、本体が別の組織に所属していても、契約分身としての戦術編成には影響しない。実際、飛鳥の本体は黒針会の幹部アスカ(`world/32_black_needle_society.md`)、仁礼の本体は双槌の聖戦修道女団の一員(`world/19_twin_hammer_order.md`)であり、それぞれ以下の小隊とは全く無関係の組織に属しているが、契約分身としての戦い方には支障がない。
+一方、以下の3つの小隊名は、本体側の所属とは無関係の、契約分身を戦場でどう組ませるかという純粋な戦術編成の呼び名である。契約分身の活動中も本体は本来の生活を送るという契約召喚魔法の性質上(`rules/04_summoning_magic.md`)、本体が別の組織に所属していても、契約分身としての戦術編成には影響しない。実際、飛鳥の本体は黒針会の幹部アスカ(`world/crossroad/32_black_needle_society.md`)、仁礼の本体は双槌の聖戦修道女団の一員(`world/nations/19_twin_hammer_order.md`)であり、それぞれ以下の小隊とは全く無関係の組織に属しているが、契約分身としての戦い方には支障がない。
 
 ## 狩人パーティー(氷室・ツバキ・飛鳥・天雷)
 
@@ -78,7 +78,7 @@
 
 ### メンバー
 
-`characters/pc_summons/26_kusabi.md`(クサビ)、`characters/pc_summons/18_kokonoe.md`(九重)、`characters/pc_summons/23_ninrei.md`(仁礼)、`characters/pc_summons/17_sayo.md`(小夜)。仁礼は双槌の聖戦修道女団(`world/19_twin_hammer_order.md`)の一員、小夜は合体奥義「隠業スーパー忍者ツバキ」(`characters/pc_summons/06_tsubaki.md`)の一員でもあるが、いずれも小隊編成とは独立した別枠の所属である。
+`characters/pc_summons/26_kusabi.md`(クサビ)、`characters/pc_summons/18_kokonoe.md`(九重)、`characters/pc_summons/23_ninrei.md`(仁礼)、`characters/pc_summons/17_sayo.md`(小夜)。仁礼は双槌の聖戦修道女団(`world/nations/19_twin_hammer_order.md`)の一員、小夜は合体奥義「隠業スーパー忍者ツバキ」(`characters/pc_summons/06_tsubaki.md`)の一員でもあるが、いずれも小隊編成とは独立した別枠の所属である。
 
 ## 運用方針
 
