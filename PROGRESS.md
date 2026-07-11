@@ -674,3 +674,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 
 - `rules/10_new_character_format.md`の動作確認を兼ねて、`characters/npcs/22_balto.md`(バルト)を新規作成。北門《王都門》の古参門衛、Lv28、通り名「北門のバルト」。ステータス合計30(Lv28、diff+2で許容範囲内)、スキルLv合計14(Lv28の半分と正確一致)を検算済み。
 - `world/crossroad/11_crossroad_city.md`の主要NPC一覧、`world/crossroad/44_crossroad_nicknames.md`の通り名一覧、`world/crossroad/52_crossroad_gates_streets.md`の「門衛による案内」節に相互参照を追加。衛兵隊長エイダ(`characters/npcs/04_ada_lockwell.md`)側にもバルトへの言及を追記し、双方向リンクとした。
+
+## 2026-07-11 武器防具のフレーバー扱いを召喚体側限定に明確化
+
+- `rules/07_item_system.md`に「主人公・召喚体と、一般冒険者との扱いの違い」を追記。主人公(召喚士)・契約召喚体にとって装備は戦闘力に影響しないフレーバーだが、バルトのような一般の門衛・冒険者・NPCにとっては装備の質が実戦力に直結する、という運用方針を明記した。`world/06_economy.md`の武器・防具価格帯は後者を想定した価格差であることも記録。
