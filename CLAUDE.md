@@ -13,7 +13,7 @@ world/dragons/           五龍(大地龍・火山龍・氷結龍・海洋龍・
 world/crossroad/         PC拠点都市クロスロードの全設定(区画・施設・NPC所属先・組織・祭り)
 rules/                   判定・戦闘・レベル・スキル・魔法・召喚・合体奥義などのゲームルール
 characters/pc.md         主人公のキャラクターシート
-characters/npcs/         クロスロードの主要NPC(21人、通り名は`world/crossroad/44_crossroad_nicknames.md`に一覧)
+characters/npcs/         クロスロードの主要NPC(22人、通り名は`world/crossroad/44_crossroad_nicknames.md`に一覧)
 characters/pc_summons/   主人公の契約召喚体(29人、通常NPCとは別枠)
 items/                   召喚体の専用装備・魔法道具
 sessions/                実際のセッションログ・プレイ履歴
@@ -36,6 +36,7 @@ PROGRESS.md              作業ログ(時系列)。「今何があるか」の�
 | 依頼(クエスト)を受ける | `world/14_adventurers_guild.md`(依頼の流れ・ランク制度)、`world/06_economy.md`(ランク別報酬額の目安)。報酬額は必ずここの相場に照らして決める、雰囲気だけで金額を決めない。この相場は1人あたりの平均取り分であり、パーティー人数で等分する総額ではない |
 | 依頼を新しく提示する(掲示板・NPCからの依頼など) | 討伐依頼のたびに裏の陰謀や調査要素を挟まない。`world/14_adventurers_guild.md`の「定期討伐(素材調達)」の通り、討伐依頼の大半は特別な背景を持たない日常的な間引き・素材調達であるべきで、これが基本形。`world/nations/17_central_haven_undead_problem.md`級の異常事態を伴う依頼は例外として稀に出す程度に留め、護衛・採取・調査・護送なども含めて依頼の種類が偏らないようにする |
 | 買い物・値段・素材の売買・所持金の増減 | `world/06_economy.md`(金額感覚・価格帯・素材買い取りランク制度)、`world/crossroad/42,45,49,50`(職人区商品・市場・飲食店・娼館)、`characters/pc.md`(現在の所持金)。金額を動かす場面では必ず参照し、相場から外れた金額を即興で出さない |
+| 特に目的なく街を散策している | `world/crossroad/53_crossroad_wandering_events.md`。世間話・軽い手伝い・噂話程度の小さなシーンで十分で、毎回オチや報酬、戦闘、新しい陰謀を用意する必要はない。挟む頻度にも余白を残す |
 | 五龍や国家規模の話題 | `world/dragons/`、`world/nations/`、`world/02_alvein_continent.md` |
 
 ## 新しいNPC・組織・場所を出す前に

@@ -16,6 +16,8 @@
 
 月に一度、五区画それぞれ違った特色で開催される収穫の祭り「巡穣祭」もある。詳細は`world/crossroad/47_crossroad_harvest_festival.md`を参照。
 
+各区画の「よく起きる出来事」は、依頼としてではなく、特に目的なく街を歩いている時の軽いシーンとしても使える。詳細は`world/crossroad/53_crossroad_wandering_events.md`を参照。
+
 ## 中央区：都市中枢区
 
 ### 概要
