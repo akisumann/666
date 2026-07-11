@@ -102,6 +102,13 @@
 - ルカ・フェンネル(若手騎士・現場連絡役。`characters/npcs/05_luca_fennel.md`)
 - セリア(浄化院の窓口。`characters/npcs/09_celia.md`)
 
+### 主な施設(具体的な店舗・拠点)
+
+- 折れ角の牡鹿亭(大衆酒場)、水音茶房(茶屋)、白雲(茶屋)、金穂宮(高級料理店)、月桂樹の間(高級料理店)。いずれも`world/crossroad/49_crossroad_dining.md`を参照
+- 土香る庵(大神殿近くの茶屋)、眠龍楼(大神殿近くの高級料理店)。`world/crossroad/49_crossroad_dining.md`を参照
+- 中央広場市。`world/crossroad/45_crossroad_district_markets.md`を参照
+- 公式掲示板。区画ごとの掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
+
 ## 北区：商業・交易区
 
 ### 概要
@@ -195,6 +202,14 @@
 - リネット(四辻の炉亭・ギルド周辺の情報屋。`characters/npcs/10_linette.md`)
 - バルト(北門の古参門衛。`characters/npcs/22_balto.md`)
 - ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
+
+### 主な施設(具体的な店舗・拠点)
+
+- 荷馬車亭(安宿)、四辻の炉亭(中宿)、白鳩楼(高級宿)。いずれも`world/crossroad/21_crossroad_inns.md`を参照
+- 七つ樽(交易酒場)、帰還者の杯(ギルド近くの酒場)、旅籠前茶屋・一服(茶屋)、琥珀の匙(高級交易料理店)。いずれも`world/crossroad/49_crossroad_dining.md`を参照
+- 北方交易市場。`world/crossroad/45_crossroad_district_markets.md`を参照
+- 冒険者ギルド支部。`world/14_adventurers_guild.md`を参照
+- 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
 
 ## 東区：住民・生活区
 
@@ -306,6 +321,13 @@
 
 - マリナ(生活区の世話役。公衆浴場・洗濯場・町内会館周辺。`characters/npcs/11_marina.md`)
 - ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
+
+### 主な施設(具体的な店舗・拠点)
+
+- ひだまり縁側(茶屋)、芽吹き棚(南区との境の薬草茶屋)。いずれも`world/crossroad/49_crossroad_dining.md`を参照
+- 民間魔法サークル(南区との境目)。`world/crossroad/43_crossroad_magic_circle.md`を参照
+- 東の暮らし市。`world/crossroad/45_crossroad_district_markets.md`を参照
+- 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
 
 ## 南区：職人・工房区
 
@@ -434,6 +456,15 @@
 - ミルカ(薬品職人。ミルカ薬品工房。`characters/npcs/13_mika.md`)
 - ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
 
+### 主な施設(具体的な店舗・拠点)
+
+- 鉄靴休み(簡易工房付きの特色宿)。`world/crossroad/21_crossroad_inns.md`を参照
+- 赤釘亭(職人酒場)。`world/crossroad/49_crossroad_dining.md`を参照
+- フォージライト工房、ミルカ薬品工房。危険地域産の素材が具体的にどう加工されるかは`world/crossroad/42_crossroad_artisan_goods.md`を参照
+- 民間魔法サークル(東区との境目)。`world/crossroad/43_crossroad_magic_circle.md`を参照
+- 南の投げ売り市。`world/crossroad/45_crossroad_district_markets.md`を参照
+- 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
+
 ## 西区：歓楽・闘技区
 
 ### 概要
@@ -547,3 +578,13 @@
 - ベルナデッタ(桃灯楼の人気嬢。`characters/npcs/20_bernadette.md`)
 - エルシア(百花迷宮の幻術娼婦。夜はこの区、昼は東区・南区境目の魔法サークル。`characters/npcs/21_elsia.md`)
 - ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
+
+### 主な施設(具体的な店舗・拠点)
+
+- 大カジノ。`world/crossroad/28_crossroad_casino.md`(魔導盤レース：`world/crossroad/29_crossroad_magic_board_race.md`、魔導スロット：`world/crossroad/33_crossroad_magic_slot.md`)を参照
+- コロッセオ。`world/crossroad/27_crossroad_colosseum.md`を参照
+- 娼館通り(紅玻璃館・桃灯楼・百花迷宮)。`world/crossroad/50_crossroad_brothels.md`を参照
+- 赤幕の借宿(特色宿)。`world/crossroad/21_crossroad_inns.md`を参照
+- 夜鴉の止まり木、月裏亭(酒場)、銀燭館(高級料理店)。いずれも`world/crossroad/49_crossroad_dining.md`を参照
+- 西の夜市。`world/crossroad/45_crossroad_district_markets.md`を参照
+- 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
