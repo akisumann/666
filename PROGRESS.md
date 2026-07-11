@@ -849,3 +849,9 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 
 - `characters/npcs/24_viviana_loudbell.md`に「場外での仕事」を追加。大規模大会の司会、祭りや催しの開会宣言、演説会での登壇者紹介、商会の大売り出し、冒険者ギルド表彰式、劇場の特別公演案内、緊急時の避難誘導など、コロッセオ以外でも声を活かした臨時依頼を請け負っていることを整理した。緊急時は普段の煽る実況を封じ、短く明確な指示に切り替える一面も記録。
 - `world/crossroad/46_crossroad_matchmaking_festival.md`に、婚活祭りの開祭宣言の司会進行を彼女が担当することが多い旨の相互参照を追加した。
+
+## 2026-07-11 カジノの勝負師レオン・グレイヴを新設
+
+- 本人提示のステータス(HP:C/MP:C/ATK:F/DEF:D/INT:A/SPD:D/DEX:B)を検算したところ合計31で、記載の「合計38」(Lv38)と7点ずれていたため、修正方針を確認。カード・骰子操作の卓越ぶりに合わせてDEX:B→Aへ訂正し、合計38(Lv38と正確一致)に帳尻を合わせた。スキル合計19(Lv38の半分と正確一致)は当初から一致していた。
+- `characters/npcs/25_leon_grave.md`を新規作成。カジノ常連の勝負師、異名《灰色の切り札》。ギャンブルの実力は本物だが生活能力は皆無という人物像、裏社会の重大な決断へごく稀に非戦闘の助言役として呼ばれること、ミレーヌの西区正常化の重大な分岐に彼の助言が関わっていたとされる逸話(真相不明)、ミレーヌが彼を評価しつつも金は持たせない現在の関係性を整理した。
+- `characters/npcs/02_milene_weissfeld.md`「西区正常化」、`world/crossroad/28_crossroad_casino.md`、`world/crossroad/11_crossroad_city.md`(主要NPC一覧)、`world/crossroad/20_crossroad_city_districts.md`(西区の主なNPC)、`world/crossroad/44_crossroad_nicknames.md`(独自の通り名を持つ者)に相互参照を追加した。

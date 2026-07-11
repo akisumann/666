@@ -590,6 +590,7 @@
 - ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
 - エリアス・ヴェイル(巡業劇団《渡り灯一座》専属脚本家。滞在中は大劇場《万象座》を拠点にする。`characters/npcs/23_elias_veil.md`)
 - ヴィヴィアナ・ラウドベル(コロッセオ専属実況者。`characters/npcs/24_viviana_loudbell.md`)
+- レオン・グレイヴ(カジノ常連の勝負師。異名《灰色の切り札》。`characters/npcs/25_leon_grave.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
