@@ -33,7 +33,7 @@ PROGRESS.md              作業ログ(時系列)。「今何があるか」の�
 | 召喚魔法・契約分身が絡む | `rules/04_summoning_magic.md` |
 | 魔法の種類・階位が話題になった | `rules/05_magic_theory.md` |
 | 合体奥義(集約召喚)を使う | `rules/08_synthesis_technique.md`。固定編成以外の組み合わせを勝手に作らない |
-| 依頼(クエスト)を受ける | `world/14_adventurers_guild.md`(依頼の流れ・ランク制度)、`world/06_economy.md`(ランク別報酬額の目安)。報酬額は必ずここの相場に照らして決める、雰囲気だけで金額を決めない |
+| 依頼(クエスト)を受ける | `world/14_adventurers_guild.md`(依頼の流れ・ランク制度)、`world/06_economy.md`(ランク別報酬額の目安)。報酬額は必ずここの相場に照らして決める、雰囲気だけで金額を決めない。この相場は1人あたりの平均取り分であり、パーティー人数で等分する総額ではない |
 | 依頼を新しく提示する(掲示板・NPCからの依頼など) | 討伐依頼のたびに裏の陰謀や調査要素を挟まない。`world/14_adventurers_guild.md`の「定期討伐(素材調達)」の通り、討伐依頼の大半は特別な背景を持たない日常的な間引き・素材調達であるべきで、これが基本形。`world/nations/17_central_haven_undead_problem.md`級の異常事態を伴う依頼は例外として稀に出す程度に留め、護衛・採取・調査・護送なども含めて依頼の種類が偏らないようにする |
 | 買い物・値段・素材の売買・所持金の増減 | `world/06_economy.md`(金額感覚・価格帯・素材買い取りランク制度)、`world/crossroad/42,45,49,50`(職人区商品・市場・飲食店・娼館)、`characters/pc.md`(現在の所持金)。金額を動かす場面では必ず参照し、相場から外れた金額を即興で出さない |
 | 五龍や国家規模の話題 | `world/dragons/`、`world/nations/`、`world/02_alvein_continent.md` |
