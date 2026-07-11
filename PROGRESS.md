@@ -812,3 +812,8 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 - `world/crossroad/54_crossroad_theater.md`を新規作成。西区の常設劇場、北区の大商会が支援する巡業劇団《渡り灯一座》(所属役割：役者・楽師・舞台係・衣装係・大道具職人・魔法演出担当・脚本補助・興行交渉役・護衛・商会の会計担当)、代表演目3作(戦記群像劇『五王国演義』、一話完結型旅行劇『銀杯の三騎士』、王族恋愛悲劇『王なき王冠』)を整理した。
 - `characters/npcs/23_elias_veil.md`を新規作成。Lv36の劇団専属脚本家エリアス・ヴェイル。ステータス合計36(Lv36と正確一致)、スキル合計18(Lv36の半分と正確一致)を検算済み。通り名「劇作家のエリアス」。
 - `world/crossroad/20_crossroad_city_districts.md`(西区の主なNPC・主な施設)、`world/crossroad/11_crossroad_city.md`(主要NPC一覧)、`world/crossroad/44_crossroad_nicknames.md`(通り名一覧)、`world/crossroad/32_black_needle_society.md`(西区概要の劇場言及)に相互参照を追加。
+
+## 2026-07-11 エリアスの未上演企画『歓楽街の女王』を追加
+
+- `characters/npcs/23_elias_veil.md`に「未上演企画『歓楽街の女王』」を追加。ミレーヌ・ヴァイスフェルトの半生を題材にした演目を構想したが、時事性が高すぎる・実在人物だと容易に分かるなどの理由で劇団側に止められ、クロスロード市内では未上演のままであることを整理した。数十年後の歴史劇化・舞台の移設・本人からの正式許可取得など、密かに検討している代替案も記録。
+- `characters/npcs/02_milene_weissfeld.md`に「エリアス・ヴェイルとの関わり」を追加し、相互参照を繋げた(ミレーヌ本人が企画の存在を知っているかは未設定のまま残した)。`world/crossroad/54_crossroad_theater.md`にも簡潔な参照を追加。
