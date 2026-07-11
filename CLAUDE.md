@@ -28,7 +28,7 @@ PROGRESS.md              作業ログ(時系列)。「今何があるか」の�
 |---|---|
 | 場所が変わった(区画・施設に入った) | クロスロード内の区画(中央・北・東・南・西)なら、まず`world/crossroad/20_crossroad_city_districts.md`のその区画の「主なNPC」「主な施設」を確認し、自然に絡められそうならそこに載っているNPCや店を背景として登場させる。名前が出た時に調べるだけでなく、区画へ入った時点で能動的に一覧を見ること。他国は`world/nations/`、街道・危険地域・ダンジョンは`world/`直下を参照 |
 | NPCが登場・言及された | `characters/npcs/`。名前が分からなければ`world/crossroad/44_crossroad_nicknames.md`の通り名一覧から逆引き |
-| 召喚体を呼んだ・戦闘に出した | `characters/pc_summons/`本人のファイル、装備は`items/`、複数体で戦うなら`rules/09_summon_tactical_parties.md` |
+| 召喚体を呼んだ・戦闘に出した | `characters/pc_summons/`本人のファイル、装備は`items/`、複数体で戦うなら`rules/09_summon_tactical_parties.md`。召喚時の描写では、ファイルの身長・体重・スリーサイズから受ける「ぱっと見の印象」(すらっとしている、小柄で華奢、出るところが出た体つき、など)を自然な地の文に落とし込む。数値をそのまま読み上げない |
 | 戦闘が始まった | `rules/02_status_system.md`(ステータス)、`rules/03_combat_system.md`(判定・戦況処理) |
 | 召喚魔法・契約分身が絡む | `rules/04_summoning_magic.md` |
 | 魔法の種類・階位が話題になった | `rules/05_magic_theory.md` |
