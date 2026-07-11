@@ -817,3 +817,9 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 
 - `characters/npcs/23_elias_veil.md`に「未上演企画『歓楽街の女王』」を追加。ミレーヌ・ヴァイスフェルトの半生を題材にした演目を構想したが、時事性が高すぎる・実在人物だと容易に分かるなどの理由で劇団側に止められ、クロスロード市内では未上演のままであることを整理した。数十年後の歴史劇化・舞台の移設・本人からの正式許可取得など、密かに検討している代替案も記録。
 - `characters/npcs/02_milene_weissfeld.md`に「エリアス・ヴェイルとの関わり」を追加し、相互参照を繋げた(ミレーヌ本人が企画の存在を知っているかは未設定のまま残した)。`world/crossroad/54_crossroad_theater.md`にも簡潔な参照を追加。
+
+## 2026-07-11 劇場を西区三大娯楽施設「クロスロード大劇場《万象座》」に格上げ
+
+- 本人の指示により、小規模な常設劇場だった劇場設定を、コロッセオ・カジノと並ぶ西区の三本柱「クロスロード大劇場《万象座》」へ格上げ。`world/crossroad/54_crossroad_theater.md`の該当節を全面改稿し、規模(観客席約千人、一般席・二階席・桟敷席・大型舞台・奈落や昇降床・幻術演出設備など)と、三本柱としての位置付け(コロッセオ=闘争と熱狂、カジノ=賭博と一攫千金、万象座=物語と幻想)を明記した。
+- `world/crossroad/20_crossroad_city_districts.md`の西区概要・主な施設・主なNPC、`world/crossroad/11_crossroad_city.md`、`characters/npcs/23_elias_veil.md`の「西区劇場」表記を「大劇場《万象座》」へ統一。
+- `world/crossroad/27_crossroad_colosseum.md`・`world/crossroad/28_crossroad_casino.md`の冒頭にも、三本柱としての相互参照を追加した。

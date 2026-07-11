@@ -480,7 +480,7 @@
 ### 概要
 
 森境街道側に広がる、クロスロードでもっとも夜が明るい区画。
-カジノ(詳細は`world/crossroad/28_crossroad_casino.md`)、娼館通り(詳細は`world/crossroad/50_crossroad_brothels.md`)、劇場(詳細は`world/crossroad/54_crossroad_theater.md`)、酒場、コロッセオ(詳細は`world/crossroad/27_crossroad_colosseum.md`)、見世物小屋、情報屋、裏賭博場などが集まる。
+コロッセオ(詳細は`world/crossroad/27_crossroad_colosseum.md`)、カジノ(詳細は`world/crossroad/28_crossroad_casino.md`)、大劇場《万象座》(詳細は`world/crossroad/54_crossroad_theater.md`)という西区三大娯楽施設に加え、娼館通り(詳細は`world/crossroad/50_crossroad_brothels.md`)、酒場、見世物小屋、情報屋、裏賭博場などが集まる。
 
 入口には、ここから先は治安が悪い区画であることを示す警告板が立っている。
 ただし西区は無法地帯ではない。
@@ -505,7 +505,7 @@
 - 大カジノ
 - 娼館通り
 - コロッセオ
-- 劇場
+- 大劇場《万象座》
 - 高級酒場
 - 安酒場
 - 見世物小屋
@@ -588,13 +588,13 @@
 - ベルナデッタ(桃灯楼の人気嬢。`characters/npcs/20_bernadette.md`)
 - エルシア(百花迷宮の幻術娼婦。夜はこの区、昼は東区・南区境目の魔法サークル。`characters/npcs/21_elsia.md`)
 - ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
-- エリアス・ヴェイル(巡業劇団《渡り灯一座》専属脚本家。滞在中は西区劇場を拠点にする。`characters/npcs/23_elias_veil.md`)
+- エリアス・ヴェイル(巡業劇団《渡り灯一座》専属脚本家。滞在中は大劇場《万象座》を拠点にする。`characters/npcs/23_elias_veil.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
 - 大カジノ。`world/crossroad/28_crossroad_casino.md`(魔導盤レース：`world/crossroad/29_crossroad_magic_board_race.md`、魔導スロット：`world/crossroad/33_crossroad_magic_slot.md`)を参照
 - コロッセオ。`world/crossroad/27_crossroad_colosseum.md`を参照
-- 西区劇場(巡業劇団《渡り灯一座》の主要公演地)。`world/crossroad/54_crossroad_theater.md`を参照
+- クロスロード大劇場《万象座》(コロッセオ・カジノと並ぶ西区三大娯楽施設のひとつ。巡業劇団《渡り灯一座》の主要公演地)。`world/crossroad/54_crossroad_theater.md`を参照
 - 娼館通り(紅玻璃館・桃灯楼・百花迷宮)。`world/crossroad/50_crossroad_brothels.md`を参照
 - 赤幕の借宿(特色宿)。`world/crossroad/21_crossroad_inns.md`を参照
 - 夜鴉の止まり木、月裏亭(酒場)、銀燭館(高級料理店)。いずれも`world/crossroad/49_crossroad_dining.md`を参照

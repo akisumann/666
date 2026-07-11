@@ -389,7 +389,7 @@
 
 ### 巡業劇団専属脚本家：エリアス・ヴェイル
 
-巡業劇団《渡り灯一座》の専属脚本家。西区劇場(`world/crossroad/54_crossroad_theater.md`)で定期的に上演される代表作3作を手掛けている。詳細は`characters/npcs/23_elias_veil.md`を参照。
+巡業劇団《渡り灯一座》の専属脚本家。西区の大劇場《万象座》(`world/crossroad/54_crossroad_theater.md`)で定期的に上演される代表作3作を手掛けている。詳細は`characters/npcs/23_elias_veil.md`を参照。
 
 ### 黒針会幹部：ミーナ
 
