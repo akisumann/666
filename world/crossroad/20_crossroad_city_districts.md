@@ -108,6 +108,7 @@
 - 土香る庵(大神殿近くの茶屋)、眠龍楼(大神殿近くの高級料理店)。`world/crossroad/49_crossroad_dining.md`を参照
 - 中央広場市。`world/crossroad/45_crossroad_district_markets.md`を参照
 - 公式掲示板。区画ごとの掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
+- 情報屋(黒針会運営の伝言・情報網の中央区支店)。`world/crossroad/51_black_needle_info_network.md`を参照
 
 ## 北区：商業・交易区
 
@@ -210,6 +211,7 @@
 - 北方交易市場。`world/crossroad/45_crossroad_district_markets.md`を参照
 - 冒険者ギルド支部。`world/14_adventurers_guild.md`を参照
 - 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
+- 情報屋(商業区の情報屋。リネットもこの一帯を拠点とする)。`world/crossroad/51_black_needle_info_network.md`を参照
 
 ## 東区：住民・生活区
 
@@ -328,6 +330,7 @@
 - 民間魔法サークル(南区との境目)。`world/crossroad/43_crossroad_magic_circle.md`を参照
 - 東の暮らし市。`world/crossroad/45_crossroad_district_markets.md`を参照
 - 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
+- 情報屋(住民の生活情報・失踪の噂などを扱う東区の情報屋)。`world/crossroad/51_black_needle_info_network.md`を参照
 
 ## 南区：職人・工房区
 
@@ -464,6 +467,7 @@
 - 民間魔法サークル(東区との境目)。`world/crossroad/43_crossroad_magic_circle.md`を参照
 - 南の投げ売り市。`world/crossroad/45_crossroad_district_markets.md`を参照
 - 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
+- 情報屋(素材・工房・怪しい取引の流れを扱う職人区の情報屋。「職人区第四情報屋」はこの一帯の一例)。`world/crossroad/51_black_needle_info_network.md`を参照
 
 ## 西区：歓楽・闘技区
 
@@ -588,3 +592,4 @@
 - 夜鴉の止まり木、月裏亭(酒場)、銀燭館(高級料理店)。いずれも`world/crossroad/49_crossroad_dining.md`を参照
 - 西の夜市。`world/crossroad/45_crossroad_district_markets.md`を参照
 - 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
+- 情報屋(歓楽街・裏事情に強い西区の情報屋網の中心)。黒針会そのものの詳細は`world/crossroad/32_black_needle_society.md`、伝言・情報網の仕組みは`world/crossroad/51_black_needle_info_network.md`を参照
