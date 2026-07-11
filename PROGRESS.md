@@ -844,3 +844,8 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 
 - `characters/npcs/24_viviana_loudbell.md`を新規作成。Lv34のコロッセオ専属実況者。ステータス合計32(Lv34、diff-2で許容範囲内)、スキル合計17(Lv34の半分と正確一致)を検算済み。通り名「爆声のヴィヴィアナ」。試合実況・選手紹介・観客扇動・興行宣伝を担い、選手の技にその場で通称を付ける癖なども記録した。
 - `world/crossroad/27_crossroad_colosseum.md`(演出担当・出店と物販)、`world/crossroad/11_crossroad_city.md`(主要NPC一覧)、`world/crossroad/20_crossroad_city_districts.md`(西区の主なNPC)、`world/crossroad/44_crossroad_nicknames.md`(通り名一覧)、`rules/11_colosseum_duel_system.md`(観客の反応・会場の描写)に相互参照を追加した。
+
+## 2026-07-11 ヴィヴィアナの場外での仕事を追加
+
+- `characters/npcs/24_viviana_loudbell.md`に「場外での仕事」を追加。大規模大会の司会、祭りや催しの開会宣言、演説会での登壇者紹介、商会の大売り出し、冒険者ギルド表彰式、劇場の特別公演案内、緊急時の避難誘導など、コロッセオ以外でも声を活かした臨時依頼を請け負っていることを整理した。緊急時は普段の煽る実況を封じ、短く明確な指示に切り替える一面も記録。
+- `world/crossroad/46_crossroad_matchmaking_festival.md`に、婚活祭りの開祭宣言の司会進行を彼女が担当することが多い旨の相互参照を追加した。
