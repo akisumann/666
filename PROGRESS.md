@@ -669,3 +669,8 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 ## 2026-07-10 新規キャラクター生成フォーマットからSランク制限を削除
 
 - `rules/10_new_character_format.md`の「Lv50未満のキャラクターは、原則としてSを持たせない」という項目を削除。既存の召喚体多数(青葉・ツバキ・天雷・泡姫・白金・唯一・芍薬・カスミ・マモリ等)と衝突する不要なルールだったため、本人の指示によりカットした。
+
+## 2026-07-11 新規キャラクター生成フォーマットの試作としてバルトを追加
+
+- `rules/10_new_character_format.md`の動作確認を兼ねて、`characters/npcs/22_balto.md`(バルト)を新規作成。北門《王都門》の古参門衛、Lv28、通り名「北門のバルト」。ステータス合計30(Lv28、diff+2で許容範囲内)、スキルLv合計14(Lv28の半分と正確一致)を検算済み。
+- `world/crossroad/11_crossroad_city.md`の主要NPC一覧、`world/crossroad/44_crossroad_nicknames.md`の通り名一覧、`world/crossroad/52_crossroad_gates_streets.md`の「門衛による案内」節に相互参照を追加。衛兵隊長エイダ(`characters/npcs/04_ada_lockwell.md`)側にもバルトへの言及を追記し、双方向リンクとした。

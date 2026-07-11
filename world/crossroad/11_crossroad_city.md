@@ -352,3 +352,7 @@
 ### 百花迷宮の幻術娼婦・民間術師会の会員：エルシア
 
 昼は民間魔法サークル(`world/crossroad/43_crossroad_magic_circle.md`)で研究に没頭する内気な魔法使い、夜は百花迷宮(`world/crossroad/50_crossroad_brothels.md`)で完全変身の幻術娼婦。レベルキャップ到達済みのLv40。詳細は`characters/npcs/21_elsia.md`を参照。
+
+### 北門の古参門衛：バルト
+
+北門《王都門》(`world/crossroad/52_crossroad_gates_streets.md`)に詰める古参の衛兵。出入り確認や道案内を担う、街の顔役的存在。詳細は`characters/npcs/22_balto.md`を参照。

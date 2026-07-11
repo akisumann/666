@@ -35,6 +35,7 @@
 | 赤巫女のロザリア | ロザリア | 紅玻璃館の筆頭花魁(`characters/npcs/19_rosalia.md`) |
 | 呼び声のベルナデッタ | ベルナデッタ | 桃灯楼の人気嬢・街中連絡役(`characters/npcs/20_bernadette.md`) |
 | オタクのエルシア(魔法サークル)／幻惑のエルシア(娼館) | エルシア | 百花迷宮の幻術娼婦・民間術師会の会員(`characters/npcs/21_elsia.md`) |
+| 北門のバルト | バルト | 北門《王都門》の古参門衛(`characters/npcs/22_balto.md`) |
 
 ## 独自の通り名を持つ者
 
