@@ -26,7 +26,7 @@ PROGRESS.md              作業ログ(時系列)。「今何があるか」の�
 
 | 場面 | 参照先 |
 |---|---|
-| 場所が変わった(区画・施設に入った) | `world/crossroad/`(クロスロード内)、`world/nations/`(他国)、`world/`直下(街道・危険地域・ダンジョン生成ルール) |
+| 場所が変わった(区画・施設に入った) | クロスロード内の区画(中央・北・東・南・西)なら、まず`world/crossroad/20_crossroad_city_districts.md`のその区画の「主なNPC」「主な施設」を確認し、自然に絡められそうならそこに載っているNPCや店を背景として登場させる。名前が出た時に調べるだけでなく、区画へ入った時点で能動的に一覧を見ること。他国は`world/nations/`、街道・危険地域・ダンジョンは`world/`直下を参照 |
 | NPCが登場・言及された | `characters/npcs/`。名前が分からなければ`world/crossroad/44_crossroad_nicknames.md`の通り名一覧から逆引き |
 | 召喚体を呼んだ・戦闘に出した | `characters/pc_summons/`本人のファイル、装備は`items/`、複数体で戦うなら`rules/09_summon_tactical_parties.md` |
 | 戦闘が始まった | `rules/02_status_system.md`(ステータス)、`rules/03_combat_system.md`(判定・戦況処理) |

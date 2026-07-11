@@ -717,3 +717,7 @@ GPTが生成した設定を随時貼ってもらい、このリポジトリに�
 - `world/crossroad/20_crossroad_city_districts.md`内で「衛兵隊」という語が13箇所以上登場するにもかかわらず、実体ファイル`31_crossroad_security_forces.md`への参照が一切なかったため、冒頭に参照を追加。
 - 同ファイルに、月一開催の収穫祭「巡穣祭」(`47_crossroad_harvest_festival.md`、五区画それぞれ違う特色で開催)への参照も追加。
 - `world/crossroad/11_crossroad_city.md`が「セントラル・ヘイヴン王国」を2回名指ししながら、その国のファイル`world/nations/15_central_haven_kingdom.md`に一度もリンクしていなかった点を修正。
+
+## 2026-07-11 GM進行時に区画の主なNPC・施設を能動的に参照するようCLAUDE.mdを更新
+
+- `CLAUDE.md`のGM進行時検索プロトコル表「場所が変わった」の行を、`world/crossroad/20_crossroad_city_districts.md`のその区画の「主なNPC」「主な施設」をまず確認し、自然に絡められそうなら背景として登場させる、という能動的な指示に書き換えた。データとして紐付けを整備しただけでは、GM進行時にAIが実際にそれを参照して物語に出すとは限らないため、実プレイでの活用を明示的に指示する形にした。
