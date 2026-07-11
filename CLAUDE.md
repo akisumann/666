@@ -45,6 +45,7 @@ PROGRESS.md              作業ログ(時系列)。「今何があるか」の�
 - キャラクター名・組織名・地名を出す前に、`characters/`と`world/`をgrepする。
 - 既存の名称やチーム編成に、勝手に新しい設定を継ぎ足さない。
 - 本体/契約分身の関係(`rules/04_summoning_magic.md`)、パーティー編成と合体奥義は別概念であること(`rules/08_synthesis_technique.md`、`rules/09_summon_tactical_parties.md`)を混同しない。
+- 新規キャラクターを生成する際は`rules/10_new_character_format.md`の生成フォーマットに従う(人物の核を一つに絞る、生活面を持たせる、既存の街や組織と繋げる、ステータス・スキル合計の検算など)。
 
 ## 運用ポリシー
 
