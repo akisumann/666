@@ -62,7 +62,7 @@
 
 ## 西区の統制と犯罪
 
-クロスロード西区(`world/crossroad/20_crossroad_city_districts.md`)は、歓楽街、カジノ(`world/crossroad/28_crossroad_casino.md`)、コロッセオ(`world/crossroad/27_crossroad_colosseum.md`)、酒場、劇場、宿、裏路地が集まる娯楽街である。
+クロスロード西区(`world/crossroad/20_crossroad_city_districts.md`)は、歓楽街、カジノ(`world/crossroad/28_crossroad_casino.md`)、コロッセオ(`world/crossroad/27_crossroad_colosseum.md`)、酒場、劇場(`world/crossroad/54_crossroad_theater.md`)、宿、裏路地が集まる娯楽街である。
 
 西区はミレーヌを中心とした支配構造によって統制されているが、犯罪が存在しないわけではない。
 

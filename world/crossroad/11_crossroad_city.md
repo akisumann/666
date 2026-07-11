@@ -387,6 +387,10 @@
 
 北門《王都門》(`world/crossroad/52_crossroad_gates_streets.md`)に詰める古参の衛兵。出入り確認や道案内を担う、街の顔役的存在。詳細は`characters/npcs/22_balto.md`を参照。
 
+### 巡業劇団専属脚本家：エリアス・ヴェイル
+
+巡業劇団《渡り灯一座》の専属脚本家。西区劇場(`world/crossroad/54_crossroad_theater.md`)で定期的に上演される代表作3作を手掛けている。詳細は`characters/npcs/23_elias_veil.md`を参照。
+
 ### 黒針会幹部：ミーナ
 
 ネズミ系獣人。子供のような外見を利用した潜入・偽装を得意とする現場寄りの幹部。詳細は上記「裏組織:黒針会」および`characters/npcs/14_mina.md`を参照。
