@@ -37,6 +37,7 @@
 | オタクのエルシア(魔法サークル)／幻惑のエルシア(娼館) | エルシア | 百花迷宮の幻術娼婦・民間術師会の会員(`characters/npcs/21_elsia.md`) |
 | 北門のバルト | バルト | 北門《王都門》の古参門衛(`characters/npcs/22_balto.md`) |
 | 劇作家のエリアス | エリアス・ヴェイル | 巡業劇団《渡り灯一座》専属脚本家(`characters/npcs/23_elias_veil.md`) |
+| 爆声のヴィヴィアナ | ヴィヴィアナ・ラウドベル | コロッセオ専属実況者(`characters/npcs/24_viviana_loudbell.md`) |
 
 ## 独自の通り名を持つ者
 

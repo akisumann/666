@@ -589,6 +589,7 @@
 - エルシア(百花迷宮の幻術娼婦。夜はこの区、昼は東区・南区境目の魔法サークル。`characters/npcs/21_elsia.md`)
 - ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
 - エリアス・ヴェイル(巡業劇団《渡り灯一座》専属脚本家。滞在中は大劇場《万象座》を拠点にする。`characters/npcs/23_elias_veil.md`)
+- ヴィヴィアナ・ラウドベル(コロッセオ専属実況者。`characters/npcs/24_viviana_loudbell.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 

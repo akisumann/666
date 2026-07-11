@@ -123,7 +123,7 @@ SPD：Aのキャラクターが、Lv7のスキルを使う場合、7d6を振る�
 
 ### 描写に混ぜてよい要素
 
-- 実況・煽り役の掛け声(コロッセオには演出担当が常駐している)
+- 実況・煽り役の掛け声(専属実況者ヴィヴィアナ・ラウドベル。`characters/npcs/24_viviana_loudbell.md`)
 - 常連客・行商人・冒険者など観客層ごとの反応の違い
 - カジノ(`world/crossroad/28_crossroad_casino.md`)で試合に賭けている客の一喜一憂
 - 応援札や物販(`world/crossroad/27_crossroad_colosseum.md`の「出店と物販」)を手にした観客の様子
