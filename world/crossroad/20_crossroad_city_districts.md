@@ -94,6 +94,14 @@
 - 公式掲示板に不穏な告知が貼られる
 - 他区画で起きた事件が中央区に持ち込まれる
 
+### 主なNPC
+
+- クラリス・ヴァイスフェルト(領主、行政庁舎。`characters/npcs/01_clarisse_weissfeld.md`)
+- ヴァレリア・グレンツ(領主騎士団長。`characters/npcs/03_valeria_grenz.md`)
+- エイダ・ロックウェル(衛兵隊長、衛兵本部。`characters/npcs/04_ada_lockwell.md`)
+- ルカ・フェンネル(若手騎士・現場連絡役。`characters/npcs/05_luca_fennel.md`)
+- セリア(浄化院の窓口。`characters/npcs/09_celia.md`)
+
 ## 北区：商業・交易区
 
 ### 概要
@@ -178,6 +186,15 @@
 - 冒険者ギルドに指名依頼が届く
 - 素材買取所に危険な魔物素材が持ち込まれる
 - 旅人が外の危険地域の異変を話す
+
+### 主なNPC
+
+- ダリオ・ラングフォード(冒険者ギルド支部長。`characters/npcs/07_dario_langford.md`)
+- リエラ(ギルド受付職員。`characters/npcs/17_riera.md`)
+- 銀鴉の羽根(Bランク女性冒険者パーティー、ギルド支部を活動拠点とする。`characters/npcs/08_silver_raven_feather.md`)
+- リネット(四辻の炉亭・ギルド周辺の情報屋。`characters/npcs/10_linette.md`)
+- バルト(北門の古参門衛。`characters/npcs/22_balto.md`)
+- ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
 
 ## 東区：住民・生活区
 
@@ -284,6 +301,11 @@
 - 学校で不思議な魔法現象が起きる
 - 小礼拝堂にアンデッド関連の異変が出る
 - 町内会が冒険者に内密の相談を持ちかける
+
+### 主なNPC
+
+- マリナ(生活区の世話役。公衆浴場・洗濯場・町内会館周辺。`characters/npcs/11_marina.md`)
+- ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
 
 ## 南区：職人・工房区
 
@@ -406,6 +428,12 @@
 - 名工が特定素材の採取を依頼する
 - 粗悪品を売る偽職人の調査を頼まれる
 
+### 主なNPC
+
+- ガルム・フォージライト(鍛冶師・武具職人。フォージライト工房。`characters/npcs/06_galm_forgelight.md`)
+- ミルカ(薬品職人。ミルカ薬品工房。`characters/npcs/13_mika.md`)
+- ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
+
 ## 西区：歓楽・闘技区
 
 ### 概要
@@ -508,3 +536,14 @@
 - 西区で起きた殺人事件を衛兵が正式捜査する
 - 裏賭博場に危険な魔道具が持ち込まれる
 - 情報屋が危険地域に関する高価な噂を売っている
+
+### 主なNPC
+
+- ミレーヌ・ヴァイスフェルト(歓楽街組合トップ。`characters/npcs/02_milene_weissfeld.md`)
+- ミーナ(黒針会幹部。`characters/npcs/14_mina.md`)
+- ザラ(黒針会幹部。`characters/npcs/15_zara.md`)
+- ギデオン(黒針会会主。`characters/npcs/16_gideon.md`)
+- ロザリア(紅玻璃館の筆頭花魁。`characters/npcs/19_rosalia.md`)
+- ベルナデッタ(桃灯楼の人気嬢。`characters/npcs/20_bernadette.md`)
+- エルシア(百花迷宮の幻術娼婦。夜はこの区、昼は東区・南区境目の魔法サークル。`characters/npcs/21_elsia.md`)
+- ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
