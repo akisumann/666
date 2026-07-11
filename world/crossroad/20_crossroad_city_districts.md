@@ -14,6 +14,8 @@
 
 各区画の酒場・茶屋・高級料理店は客層が被らないよう棲み分けられている。詳細は`world/crossroad/49_crossroad_dining.md`を参照。
 
+月に一度、五区画それぞれ違った特色で開催される収穫の祭り「巡穣祭」もある。詳細は`world/crossroad/47_crossroad_harvest_festival.md`を参照。
+
 ## 中央区：都市中枢区
 
 ### 概要
@@ -22,6 +24,8 @@
 行政、治安、信仰、交通、公的手続きの中心であり、街全体の心臓部にあたる。
 
 四本の主要街道が交差する中央広場を中心に、行政庁舎、衛兵本部、大神殿、浄化院(詳細は`world/crossroad/30_crossroad_purification_institute.md`)、公式掲示板、馬車駅などが配置されている。行政庁舎には領主クラリス・ヴァイスフェルトが在籍する(`characters/npcs/01_clarisse_weissfeld.md`)。
+
+各区画で言及される「衛兵隊」の役割分担・レベル目安・領主騎士団との違いは`world/crossroad/31_crossroad_security_forces.md`を参照。
 
 大神殿には、大地龍の個体記録・能力資料・歴史資料や、他の守護龍との比較資料を展示する施設がある。詳細は`world/crossroad/48_grand_temple_dragon_records.md`を参照。
 
