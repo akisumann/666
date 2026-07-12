@@ -359,6 +359,8 @@
 
 正規工房の商品とは別に、新人職人や変人職人の試作品・失敗作が投げ売りされる「南の投げ売り市」もこの区画にある。詳細は`world/crossroad/45_crossroad_district_markets.md`を参照。
 
+南区中央広場には、全高10メートルを超える巨大複合ゴーレム《アルティメットツギハギアイアンくん》が鎮座している。数百年にわたり職人たちが勝手に部品を継ぎ足し続けてきた共同制作物で、南区の象徴・観光名物・非常時の最終兵器を兼ねる。詳細は`characters/npcs/30_ultimate_patchwork_iron_kun.md`を参照。
+
 ### 主な役割
 
 - 生産
@@ -469,6 +471,7 @@
 - ミルカ(薬品職人。ミルカ薬品工房。`characters/npcs/13_mika.md`)
 - ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
 - セレナ・ギアフォード(特殊機構工房《仕掛屋・六番工房》店主。`characters/npcs/26_serena_gearford.md`)
+- アルティメットツギハギアイアンくん(南区中央広場の巨大複合ゴーレム。南区の象徴・非常時の最終兵器。`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
@@ -478,6 +481,7 @@
 - 特殊機構工房《仕掛屋・六番工房》(注文制作・機能付与の専門店)。`world/crossroad/56_crossroad_gadget_workshop.md`を参照
 - 民間魔法サークル(東区との境目)。`world/crossroad/43_crossroad_magic_circle.md`を参照
 - 南の投げ売り市。`world/crossroad/45_crossroad_district_markets.md`を参照
+- 南区中央広場(アルティメットツギハギアイアンくんの鎮座地)。`characters/npcs/30_ultimate_patchwork_iron_kun.md`を参照
 - 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
 - 情報屋(素材・工房・怪しい取引の流れを扱う職人区の情報屋。「職人区第四情報屋」はこの一帯の一例)。`world/crossroad/51_black_needle_info_network.md`を参照
 
