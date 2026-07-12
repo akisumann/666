@@ -7,6 +7,7 @@
 - **規模**：都市(人口中規模、五大国の中でも交易の要衝のひとつ)
 - **主な施設**：冒険者ギルド、商会、宿屋(安宿〜上等宿まで複数)、酒場、市場、訓練場、王国軍の駐屯所、領主騎士団の詰所
 - **雰囲気**：多種族・多文化が行き交う開放的な気風。旅人・商人・冒険者の出入りが多く、余所者への警戦心は薄い
+- **主な観光名所**：大神殿の大地龍石膏像(`world/crossroad/48_grand_temple_dragon_records.md`)、コロッセオ(`world/crossroad/27_crossroad_colosseum.md`)、大劇場《万象座》(`world/crossroad/54_crossroad_theater.md`)、南区中央広場のアルティメットツギハギアイアンくん(`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
 
 ### 統治構造
 
