@@ -209,6 +209,7 @@
 - リネット(四辻の炉亭・ギルド周辺の情報屋。`characters/npcs/10_linette.md`)
 - バルト(北門の古参門衛。`characters/npcs/22_balto.md`)
 - ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
+- ボルガン・ガルド(北区商業組合長・ガルド大商会会頭。北区商業の実質的な顔役。`characters/npcs/29_vorgan_gard.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
