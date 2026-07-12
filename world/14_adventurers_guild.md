@@ -134,6 +134,8 @@ HP：D　MP：S　ATK：E　DEF：D　INT：A　SPD：C　DEX：C
 
 毎日発生する一般依頼。例: 魔物討伐、採集、配達、護衛、調査
 
+クロスロード支部での具体的な掲示例は、`world/crossroad/64_danger_zone_quest_board.md`(4つの危険地域)、`world/crossroad/65_dungeon_quest_board.md`(3つのダンジョン)、`world/crossroad/66_civilian_security_quest_board.md`(護衛・盗賊討伐・犯罪者の捕縛・警備)を参照。実際に依頼を提示する際は、まずこれらの表から選ぶか、生成ルール(`world/07_settlement_generation.md`・`world/08_danger_zone_generation.md`・`world/09_dungeon_generation.md`)に沿ってその場で作る。
+
 ### 定期討伐(素材調達)
 
 討伐依頼の大半は、事件でも異変でもない。ゴブリンやオークなど繁殖力の高いモンスターは放置すると個体数が増え縄張りが広がるため、個体数管理と魔石・毛皮・牙などの素材確保を兼ねた討伐が、各地で日常的・定期的に発生する。
