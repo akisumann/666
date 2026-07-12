@@ -38,6 +38,7 @@
 | 北門のバルト | バルト | 北門《王都門》の古参門衛(`characters/npcs/22_balto.md`) |
 | 劇作家のエリアス | エリアス・ヴェイル | 巡業劇団《渡り灯一座》専属脚本家(`characters/npcs/23_elias_veil.md`) |
 | 爆声のヴィヴィアナ | ヴィヴィアナ・ラウドベル | コロッセオ専属実況者(`characters/npcs/24_viviana_loudbell.md`) |
+| 仕掛屋のセレナ | セレナ・ギアフォード | 特殊機構工房《仕掛屋・六番工房》店主(`characters/npcs/26_serena_gearford.md`) |
 
 ## 独自の通り名を持つ者
 

@@ -327,13 +327,14 @@
 
 ### 主なNPC
 
-- マリナ(生活区の世話役。公衆浴場・洗濯場・町内会館周辺。`characters/npcs/11_marina.md`)
+- マリナ(生活区の世話役。公衆浴場《四路の湯》・洗濯場・町内会館周辺。`characters/npcs/11_marina.md`)
 - ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
 - ひだまり縁側(茶屋)、芽吹き棚(南区との境の薬草茶屋)。いずれも`world/crossroad/49_crossroad_dining.md`を参照
 - 民間魔法サークル(南区との境目)。`world/crossroad/43_crossroad_magic_circle.md`を参照
+- 公衆浴場《四路の湯》(市内最大規模、混浴が基本の公衆浴場)。`world/crossroad/55_crossroad_bathhouse.md`を参照
 - 東の暮らし市。`world/crossroad/45_crossroad_district_markets.md`を参照
 - 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
 - 情報屋(住民の生活情報・失踪の噂などを扱う東区の情報屋)。`world/crossroad/51_black_needle_info_network.md`を参照
@@ -464,12 +465,14 @@
 - ガルム・フォージライト(鍛冶師・武具職人。フォージライト工房。`characters/npcs/06_galm_forgelight.md`)
 - ミルカ(薬品職人。ミルカ薬品工房。`characters/npcs/13_mika.md`)
 - ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
+- セレナ・ギアフォード(特殊機構工房《仕掛屋・六番工房》店主。`characters/npcs/26_serena_gearford.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
 - 鉄靴休み(簡易工房付きの特色宿)。`world/crossroad/21_crossroad_inns.md`を参照
 - 赤釘亭(職人酒場)。`world/crossroad/49_crossroad_dining.md`を参照
 - フォージライト工房、ミルカ薬品工房。危険地域産の素材が具体的にどう加工されるかは`world/crossroad/42_crossroad_artisan_goods.md`を参照
+- 特殊機構工房《仕掛屋・六番工房》(注文制作・機能付与の専門店)。`world/crossroad/56_crossroad_gadget_workshop.md`を参照
 - 民間魔法サークル(東区との境目)。`world/crossroad/43_crossroad_magic_circle.md`を参照
 - 南の投げ売り市。`world/crossroad/45_crossroad_district_markets.md`を参照
 - 街区掲示板の傾向は`world/crossroad/22_crossroad_bulletin_boards.md`を参照
