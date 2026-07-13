@@ -12,7 +12,7 @@
 
 ## 基本遊戯
 
-- **カード**：手札、役、読み合い、駆け引きで勝負する定番遊戯。
+- **カード**：手札、役、読み合い、駆け引きで勝負する定番遊戯。詳細ルールのある卓として、ハイアンドロー(`world/crossroad/67_crossroad_casino_high_and_low.md`)、カジノウォー(`world/crossroad/68_crossroad_casino_war.md`)、セブンインディアンポーカー(`world/crossroad/69_crossroad_seven_indian_poker.md`)がある。
 - **ルーレット**：数字、色、範囲、奇数偶数などに賭ける華やかな定番遊戯。
 - **ダイス**：賽の出目や組み合わせに賭ける単純で早い遊戯。
 - **魔導盤レース**：魔導盤の上で光の幻獣を走らせる、カジノ独自の人気遊戯。詳細は`world/crossroad/29_crossroad_magic_board_race.md`を参照。
