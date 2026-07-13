@@ -338,6 +338,7 @@
 - ミレイ(民間魔法サークルの取りまとめ役。東区と南区の境目の魔法サークルを拠点とする。`characters/npcs/18_milei.md`)
 - 小夜(独立のコソ泥。裏路地や空き家を転々としている。`characters/npcs/38_sayo.md`)
 - 泡姫(下水道に住み着いたヘドロスライム。公衆浴場《四路の湯》周辺の水路に出没しやすい。`characters/npcs/40_awahime.md`)
+- 真白(下水道に住み着いたアラクネ。泡姫の親友。`characters/npcs/46_mashiro.md`)
 - 鈴代(旅の吟遊詩人。共同井戸周辺で井戸端会議に加わっている。`characters/npcs/45_suzuyo.md`)
 
 ### 主な施設(具体的な店舗・拠点)

@@ -54,6 +54,7 @@
 | 猪突の紅葉 | 紅葉 | 武者修行中の旅の騎士(`characters/npcs/43_momiji.md`) |
 | 規律の黒羽 | 黒羽 | 紅葉の旅の同行者・天狗の剣士(`characters/npcs/44_kokuu.md`) |
 | 井戸端の鈴代 | 鈴代 | 旅の吟遊詩人(`characters/npcs/45_suzuyo.md`) |
+| 下水道のもう一人 | 真白 | 下水道に住み着いたホームレス・泡姫の親友(`characters/npcs/46_mashiro.md`) |
 
 ## 独自の通り名を持つ者
 
