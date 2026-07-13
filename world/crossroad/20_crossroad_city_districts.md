@@ -611,6 +611,7 @@
 - 氷室(コロッセオ専属剣闘士・住み込み。`characters/npcs/35_himuro.md`)
 - ツバキ(斥候系冒険者。`characters/npcs/36_tsubaki.md`)
 - 天雷(出稼ぎの弓手。`characters/npcs/37_tenrai.md`)
+- 紅葉(武者修行中の旅の騎士。練兵場で特訓中。`characters/npcs/43_momiji.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
