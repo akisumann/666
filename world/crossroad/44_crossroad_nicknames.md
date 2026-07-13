@@ -58,6 +58,8 @@
 | 下水道の三人目 | 徒然 | 泡姫・真白の下水道仲間(`characters/npcs/47_tsurezure.md`) |
 | 下水道の四人目 | 芍薬 | ボルガン・ガルドお抱えの岩石精霊(`characters/npcs/48_shakuyaku.md`) |
 | 巡回のシスター | 仁礼 | 双槌の聖戦修道女団のベテラン(`characters/npcs/49_ninrei.md`) |
+| 九槍の九重 | 九重 | 旅の投槍魔導士・クサビの幼馴染(`characters/npcs/50_kokonoe.md`) |
+| 結界のクサビ | クサビ | 旅の巫女・九重の幼馴染(`characters/npcs/51_kusabi.md`) |
 
 ## 独自の通り名を持つ者
 
