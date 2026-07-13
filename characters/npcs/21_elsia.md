@@ -85,3 +85,4 @@
 - ベルナデッタ(桃灯楼の人気嬢。娼館街の同業。`characters/npcs/20_bernadette.md`)
 - ララ(サークルに出入りする東区の天才児。術式の指摘役。`characters/npcs/27_lara.md`)
 - ギデオン(娼館街の裏事情を把握している黒針会会主。`characters/npcs/16_gideon.md`)
+- 銀雪(廃研究施設のリビングアーマー。霊体絡みの話で盛り上がることがある。`characters/npcs/54_ginsetsu.md`)

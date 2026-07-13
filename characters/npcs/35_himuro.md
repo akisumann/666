@@ -72,3 +72,4 @@
 - アスカ(黒針会絡みの揉め事処理で縁が続いている幹部。`world/crossroad/32_black_needle_society.md`)
 - ヴィヴィアナ・ラウドベル(実況でたびたび取り上げてくれる専属実況者。`characters/npcs/24_viviana_loudbell.md`)
 - 蒼龍(練兵場で顔を合わせる統制パーティーの前衛。`characters/npcs/32_souryuu.md`)
+- 白金(廃研究施設のメイドロボ。互いの怪力ぶりで妙に意気投合している。`characters/npcs/53_hakkin.md`)

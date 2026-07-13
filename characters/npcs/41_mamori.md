@@ -77,3 +77,4 @@
 - ルカ・フェンネル(同じ領主騎士団に所属する若手同僚。`characters/npcs/05_luca_fennel.md`)
 - セリア(同じ中央区で働く浄化院の窓口担当。`characters/npcs/09_celia.md`)
 - エイダ・ロックウェル(中央区で連携する衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+- 白金(廃研究施設のメイドロボ。力自慢同士で気が合う。`characters/npcs/53_hakkin.md`)
