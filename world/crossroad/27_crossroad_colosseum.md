@@ -10,6 +10,8 @@
 
 審判、結界担当、治療担当、演出担当が常駐しており、試合が興行として成立するよう管理されている。専属実況者ヴィヴィアナ・ラウドベル(`characters/npcs/24_viviana_loudbell.md`)もその一人で、彼女が担当する試合は普段より客席が盛り上がる。
 
+観客席には顔なじみの常連も多い。紅葉・黒羽(`characters/npcs/43_momiji.md`、`characters/npcs/44_kokuu.md`)は稽古熱心が高じて選手の動きを観察しに来る組、唯一(`characters/npcs/42_yuiitsu.md`)や天雷(`characters/npcs/37_tenrai.md`)は単純に派手な打ち合いを楽しみに来る組。賭け卓ではレオン・グレイヴ(`characters/npcs/25_leon_grave.md`)の読みが頭一つ抜けており、選手の癖や決まり手まで的中させることも珍しくない。
+
 キャラクター同士の1対1公開模擬決闘には、`rules/11_colosseum_duel_system.md`の3ターン判定ルールを使用する。
 
 ## 料金と収益構造
