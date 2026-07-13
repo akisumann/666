@@ -56,6 +56,7 @@
 | 井戸端の鈴代 | 鈴代 | 旅の吟遊詩人(`characters/npcs/45_suzuyo.md`) |
 | 下水道のもう一人 | 真白 | 下水道に住み着いたホームレス・泡姫の親友(`characters/npcs/46_mashiro.md`) |
 | 下水道の三人目 | 徒然 | 泡姫・真白の下水道仲間(`characters/npcs/47_tsurezure.md`) |
+| 下水道の四人目 | 芍薬 | ボルガン・ガルドお抱えの岩石精霊(`characters/npcs/48_shakuyaku.md`) |
 
 ## 独自の通り名を持つ者
 
