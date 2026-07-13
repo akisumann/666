@@ -64,6 +64,9 @@
 
 - 銀雪(似た気質を共有する仲間。`characters/npcs/54_ginsetsu.md`)
 - ミルカ(南区の薬品職人。気だるいながらも顔を合わせる。`characters/npcs/13_mika.md`)
+- 泡姫(下水道住み着きのヘドロスライム。だらけ具合が波長ぴったり。`characters/npcs/40_awahime.md`)
+- 真白(下水道住み着きのアラクネ。まったり過ごす者同士。`characters/npcs/46_mashiro.md`)
+- 徒然(下水道住み着きの元僧侶。のんびりした空気を共有する。`characters/npcs/47_tsurezure.md`)
 
 ## 琥珀・白金・銀雪との関係
 

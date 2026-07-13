@@ -64,6 +64,9 @@
 
 - ガルム・フォージライト(重い資材の運搬を頼むことがある鍛冶師。`characters/npcs/06_galm_forgelight.md`)
 - セレナ・ギアフォード(機械の扱いで話が合う《仕掛屋・六番工房》店主。`characters/npcs/26_serena_gearford.md`)
+- 空咲(北区の空輸便利屋。大荷物の運搬で組むことがある。`characters/npcs/39_sorasaki.md`)
+- 氷室(コロッセオの剣闘士。互いの怪力ぶりで妙に意気投合している。`characters/npcs/35_himuro.md`)
+- マモリ(領主専属護衛の重騎士。力自慢同士で気が合う。`characters/npcs/41_mamori.md`)
 
 ## 琥珀・銀雪・妲己との関係
 

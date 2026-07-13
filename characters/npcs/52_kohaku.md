@@ -71,6 +71,8 @@
 - ガルム・フォージライト(廃研究施設の近所に工房を構える鍛冶師。腕を認め合っている。`characters/npcs/06_galm_forgelight.md`)
 - ミルカ(似た者同士のミルカ薬品工房の主。たまに材料を融通し合う。`characters/npcs/13_mika.md`)
 - セレナ・ギアフォード(特殊機構工房《仕掛屋・六番工房》店主。機械の話が合う相手。`characters/npcs/26_serena_gearford.md`)
+- ミレイ(民間魔法サークルの取りまとめ役。専門外の魔法理論を教わることがある。`characters/npcs/18_milei.md`)
+- 芍薬(下水道住み着きの岩石精霊。良質な鉱物の入手先として時々訪ねる。`characters/npcs/48_shakuyaku.md`)
 
 ## 白金・銀雪・妲己との関係
 

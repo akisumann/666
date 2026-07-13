@@ -68,6 +68,9 @@
 
 - ミルカ(南区の薬品職人。のんびりした空気が合う。`characters/npcs/13_mika.md`)
 - 妲己(共に落ち着いた気質を共有する仲間。`characters/npcs/55_dakki.md`)
+- 徒然(下水道住み着きの元僧侶。似た静かな気質同士、通じるものがある。`characters/npcs/47_tsurezure.md`)
+- マリナ(東区の世話役。世間話でよく顔を合わせる。`characters/npcs/11_marina.md`)
+- エルシア(百花迷宮の幻術娼婦。霊体絡みの話で盛り上がることがある。`characters/npcs/21_elsia.md`)
 
 ## 琥珀・白金・妲己との関係
 
