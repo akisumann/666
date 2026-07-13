@@ -63,3 +63,7 @@
 ## よく接する人物
 
 - セリア(視察のたびに墓原の状況を聞き取る浄化院の窓口担当。`characters/npcs/09_celia.md`)
+- クラリス・ヴァイスフェルト(滞在中の中央区を治める領主。`characters/npcs/01_clarisse_weissfeld.md`)
+- エイダ・ロックウェル(アンデッド関連の事件で連携する衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+- ルカ・フェンネル(伝令で浄化院に顔を出す若手騎士。`characters/npcs/05_luca_fennel.md`)
+- マモリ(同じ中央区にいる領主専属護衛。`characters/npcs/41_mamori.md`)

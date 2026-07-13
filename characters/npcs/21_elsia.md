@@ -77,3 +77,7 @@
 ## よく接する人物
 
 - ミレイ(昼間所属する民間魔法サークルの取りまとめ役。夜の顔は明かしていない。`characters/npcs/18_milei.md`)
+- ロザリア(紅玻璃館の筆頭花魁。娼館街の同業。`characters/npcs/19_rosalia.md`)
+- ベルナデッタ(桃灯楼の人気嬢。娼館街の同業。`characters/npcs/20_bernadette.md`)
+- ララ(サークルに出入りする東区の天才児。術式の指摘役。`characters/npcs/27_lara.md`)
+- ギデオン(娼館街の裏事情を把握している黒針会会主。`characters/npcs/16_gideon.md`)

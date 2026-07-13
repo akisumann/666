@@ -65,6 +65,10 @@
 ## よく接する人物
 
 - ガルム・フォージライト(大型注文で連携する南区の鍛冶師。`characters/npcs/06_galm_forgelight.md`)
+- ミルカ(南区の職人仲間。`characters/npcs/13_mika.md`)
+- アルティメットツギハギアイアンくん(年次追加改修祭に参加する南区の象徴。`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
+- ボルガン・ガルド(特注品を注文することがある北区商業組合長。`characters/npcs/29_vorgan_gard.md`)
+- ミレーヌ・ヴァイスフェルト(成人向け付与品などを注文する西区の取引先。`characters/npcs/02_milene_weissfeld.md`)
 
 ## シナリオでの役割
 

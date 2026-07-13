@@ -43,3 +43,6 @@
 
 - 鈴代(共同井戸の井戸端会議で毎朝顔を合わせる旅の吟遊詩人。`characters/npcs/45_suzuyo.md`)
 - ミレイ(東区と南区の境目の魔法サークルを取りまとめる、住民の魔法相談窓口。`characters/npcs/18_milei.md`)
+- ララ、カーラ(東区の学校に通う地域の子供として世話を焼く相手。`characters/npcs/27_lara.md`、`characters/npcs/28_karla.md`)
+- 小夜(軒先荒らしの噂を聞きつける立場にある東区のコソ泥。`characters/npcs/38_sayo.md`)
+- 泡姫(下水道の異変や落とし物の相談を持ちかけられることがある住み着き。`characters/npcs/40_awahime.md`)

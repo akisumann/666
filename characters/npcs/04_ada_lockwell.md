@@ -51,6 +51,14 @@
 
 北門《王都門》の古参門衛バルト(`characters/npcs/22_balto.md`)からは長年の信頼を受けており、門周りの些細な相談事はバルトから直接エイダへ上がることも多い。
 
+## よく接する人物
+
+- クラリス・ヴァイスフェルト(職務上の敬意を持つ領主。`characters/npcs/01_clarisse_weissfeld.md`)
+- ヴァレリア・グレンツ(治安と防衛の役割分担をする騎士団長。`characters/npcs/03_valeria_grenz.md`)
+- ミレーヌ・ヴァイスフェルト(西区の現場判断で信頼し合う歓楽街組合トップ。`characters/npcs/02_milene_weissfeld.md`)
+- ダリオ・ラングフォード(冒険者絡みのトラブル対応で連絡を取る支部長。`characters/npcs/07_dario_langford.md`)
+- バルト(長年信頼を寄せている北門の古参門衛。`characters/npcs/22_balto.md`)
+
 ## 主人公への態度
 
 強力な冒険者として頼りにする場面もあるが、街中で勝手に事件を処理されると困るとも思っている。報告と筋を通すなら協力的。

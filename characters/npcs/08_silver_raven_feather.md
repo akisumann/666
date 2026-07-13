@@ -116,6 +116,9 @@
 
 - ダリオ・ラングフォード(信頼を寄せてくれる冒険者ギルド支部長。`characters/npcs/07_dario_langford.md`)
 - リエラ(依頼紹介や事務連絡で日常的に顔を合わせるギルド受付職員。`characters/npcs/17_riera.md`)
+- リネット(同じ北区の斥候仲間。四辻の炉亭周辺で情報交換する。`characters/npcs/10_linette.md`)
+- 統制パーティー(北区拠点の同格冒険者パーティー。`characters/npcs/31_mizushiro.md`)
+- バルト(北門の古参門衛。出入りのたびに顔を合わせる。`characters/npcs/22_balto.md`)
 
 ## 主人公への態度
 

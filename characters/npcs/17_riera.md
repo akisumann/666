@@ -23,3 +23,5 @@
 - ダリオ・ラングフォード(自分を見出してくれた支部長。`characters/npcs/07_dario_langford.md`)
 - 唯一(パーティー編成時、立ち位置管理の注意を必ず添えて紹介する相手。`characters/npcs/42_yuiitsu.md`)
 - 九重とクサビ(良い回復役がいれば紹介してほしいと頼まれている旅の二人組。`characters/npcs/50_kokonoe.md`、`characters/npcs/51_kusabi.md`)
+- 銀鴉の羽根(ギルド支部を活動拠点とする常連パーティー。`characters/npcs/08_silver_raven_feather.md`)
+- 統制パーティー(ギルド登録パーティー。受付対応で顔なじみ。`characters/npcs/31_mizushiro.md`)

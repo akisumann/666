@@ -64,3 +64,7 @@
 ## よく接する人物
 
 - ミレーヌ・ヴァイスフェルト(制度・交渉面を担う歓楽街組合トップ。人間関係を動かすベルナデッタとは役割で補い合う関係。`characters/npcs/02_milene_weissfeld.md`)
+- ロザリア(紅玻璃館の筆頭花魁。娼館街の顔役同士。`characters/npcs/19_rosalia.md`)
+- エルシア(百花迷宮の幻術娼婦。娼館街の同業。`characters/npcs/21_elsia.md`)
+- ギデオン(街の顔役同士で面識のある黒針会会主。`characters/npcs/16_gideon.md`)
+- バルト(街中人脈の一つになっている北門の古参門衛。`characters/npcs/22_balto.md`)

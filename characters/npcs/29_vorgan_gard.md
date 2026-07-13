@@ -110,6 +110,14 @@
 
 「再興の核」として肌身離さず持ち歩くあの大金塊自体、芍薬に精製させた一品である。ボルガンにとっては、資産であると同時に、彼女を繋ぎ止めている実績そのものでもある。
 
+## よく接する人物
+
+- 芍薬(極上の鉱脈をちらつかせて手元に置いているお抱えの岩石精霊。`characters/npcs/48_shakuyaku.md`)
+- クラリス・ヴァイスフェルト(本当の実力に気づいている唯一の身内以外の人物。`characters/npcs/01_clarisse_weissfeld.md`)
+- ダリオ・ラングフォード(北区商業組合長として調整することが多い冒険者ギルド支部長。`characters/npcs/07_dario_langford.md`)
+- 空咲(大口輸送を頼むことがある北区の空輸屋。`characters/npcs/39_sorasaki.md`)
+- セレナ・ギアフォード(特注品を注文することがある南区の工房店主。`characters/npcs/26_serena_gearford.md`)
+
 ## クラリスとの関係
 
 現在、身内以外でボルガンの本当の実力に気づいているのはクラリス・ヴァイスフェルト(`characters/npcs/01_clarisse_weissfeld.md`)だけ。

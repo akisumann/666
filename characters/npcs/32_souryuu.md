@@ -65,3 +65,9 @@
 ## 相互関係
 
 水城の采配には黙って従うが、青葉の勢い任せな戦い方には時折苦言を呈する。睡蓮とは物静か同士で気が合い、稽古の合間に並んで座っていることが多い。
+
+## よく接する人物
+
+- 水城、睡蓮、青葉(統制パーティーの仲間。`characters/npcs/31_mizushiro.md`、`characters/npcs/33_suiren.md`、`characters/npcs/34_aoba.md`)
+- ヴィヴィアナ・ラウドベル(コロッセオでの模擬戦を実況で度々取り上げる実況者。`characters/npcs/24_viviana_loudbell.md`)
+- ガルム・フォージライト(頑丈な革具目当てで通う南区の職人。`characters/npcs/06_galm_forgelight.md`)

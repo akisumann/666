@@ -61,3 +61,9 @@
 ## 相互関係
 
 水城には頭が上がらず、蒼龍には「もう少し落ち着け」とよく言われる。睡蓮とは気質が正反対だが、意外と仲が良く、稽古の合間によく話しかけている。
+
+## よく接する人物
+
+- 水城、蒼龍、睡蓮(統制パーティーの仲間。`characters/npcs/31_mizushiro.md`、`characters/npcs/32_souryuu.md`、`characters/npcs/33_suiren.md`)
+- ヴィヴィアナ・ラウドベル(「水球の青葉」の通り名で紹介してくれる実況者。`characters/npcs/24_viviana_loudbell.md`)
+- 氷室(コロッセオや練兵場で見かける剣闘士。`characters/npcs/35_himuro.md`)

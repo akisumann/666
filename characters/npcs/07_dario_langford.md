@@ -79,6 +79,14 @@
 
 クロスロード拠点のBランク女性冒険者チーム「銀鴉の羽根」(`characters/npcs/08_silver_raven_feather.md`)を高く信頼しており、共同依頼や主人公との橋渡しにもよく起用する。
 
+## よく接する人物
+
+- リエラ(自分が見出したギルド受付職員。`characters/npcs/17_riera.md`)
+- 銀鴉の羽根(高く信頼しているBランク女性冒険者チーム。`characters/npcs/08_silver_raven_feather.md`)
+- クラリス・ヴァイスフェルト(都市運営上の協力関係にある領主。`characters/npcs/01_clarisse_weissfeld.md`)
+- ヴァレリア・グレンツ(騎士団と冒険者の役割分担を調整する騎士団長。`characters/npcs/03_valeria_grenz.md`)
+- エイダ・ロックウェル(冒険者絡みのトラブルで連絡を取り合う衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+
 ## 主人公への態度
 
 主人公をBランク冒険者として高く評価している。

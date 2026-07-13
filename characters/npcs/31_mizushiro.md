@@ -67,3 +67,9 @@
 ## 相互関係
 
 蒼龍・睡蓮・青葉とは家門を超えた選抜仲間であり、共同生活も長い。三人それぞれの気質を把握した上で、隊としてまとまるよう采配することが多い。
+
+## よく接する人物
+
+- 蒼龍、睡蓮、青葉(統制パーティーの仲間。`characters/npcs/32_souryuu.md`、`characters/npcs/33_suiren.md`、`characters/npcs/34_aoba.md`)
+- ダリオ・ラングフォード(面識のある冒険者ギルド支部長。`characters/npcs/07_dario_langford.md`)
+- リエラ(ギルド受付職員。依頼や模擬戦の日程調整で顔を合わせる。`characters/npcs/17_riera.md`)

@@ -57,3 +57,7 @@
 ## よく接する人物
 
 - エイダ・ロックウェル(厚い信頼を寄せてくれる衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+- ルカ・フェンネル(伝令でよく北門を通る若手騎士。`characters/npcs/05_luca_fennel.md`)
+- ダリオ・ラングフォード(北門を利用する北区ギルド支部長。`characters/npcs/07_dario_langford.md`)
+- 空咲(荷馬車駅付近を拠点にする北区の空輸屋。`characters/npcs/39_sorasaki.md`)
+- ボルガン・ガルド(大口取引の荷が北門を通る北区商業組合長。`characters/npcs/29_vorgan_gard.md`)

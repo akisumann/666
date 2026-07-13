@@ -68,3 +68,5 @@
 
 - 紅葉(旅の同行者。空中では息の合った連携を見せる相棒。`characters/npcs/43_momiji.md`)
 - 氷室、蒼龍(練兵場で顔見知りになった冒険者たち。`characters/npcs/35_himuro.md`、`characters/npcs/32_souryuu.md`)
+- 青葉(統制パーティーの一員。練兵場で顔見知り。`characters/npcs/34_aoba.md`)
+- ツバキ、天雷(練兵場つながりの狩人パーティー。`characters/npcs/36_tsubaki.md`、`characters/npcs/37_tenrai.md`)

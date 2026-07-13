@@ -114,3 +114,5 @@ GM進行時は、起動のたびにステータス合計がLv59の目安(±2程�
 ## よく接する人物
 
 - ガルム・フォージライト、ミルカ、セレナ・ギアフォード(年次追加改修祭で部品を持ち寄る南区の職人たち。`characters/npcs/06_galm_forgelight.md`、`characters/npcs/13_mika.md`、`characters/npcs/26_serena_gearford.md`)
+- ダリオ・ラングフォード(非常時最終兵器としての運用相談窓口になり得る冒険者ギルド支部長。`characters/npcs/07_dario_langford.md`)
+- クラリス・ヴァイスフェルト(非常時の運用を最終判断する領主。`characters/npcs/01_clarisse_weissfeld.md`)

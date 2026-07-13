@@ -96,3 +96,6 @@
 
 - ミーナ(黒針会の情報網を通じて、使えそうな情報を拾われたり使い走りにされたりする間柄。`characters/npcs/14_mina.md`)
 - リネット(黒針会の情報網に薄く繋がる者同士、末端で顔を合わせることがある情報屋。`characters/npcs/10_linette.md`)
+- ミレーヌ・ヴァイスフェルト(目をつけられている西区の統治者。`characters/npcs/02_milene_weissfeld.md`)
+- エイダ・ロックウェル(捕まった時に説教される衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+- ベルナデッタ(街中人脈が広く、噂で顔を知られている桃灯楼の人気嬢。`characters/npcs/20_bernadette.md`)

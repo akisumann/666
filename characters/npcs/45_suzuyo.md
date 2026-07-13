@@ -65,3 +65,7 @@
 ## よく接する人物
 
 - マリナ(共同井戸周辺で顔を合わせる東区の世話役。`characters/npcs/11_marina.md`)
+- ララ、カーラ(井戸端で歌をせがんでくる東区の学校の生徒。`characters/npcs/27_lara.md`、`characters/npcs/28_karla.md`)
+- ミレイ(東区と南区の境目の魔法サークルを取りまとめる住民。`characters/npcs/18_milei.md`)
+- 小夜(東区で見かける顔。噂話仲間。`characters/npcs/38_sayo.md`)
+- エリアス・ヴェイル(興行歌唱の仕事で接点のある西区の劇作家。`characters/npcs/23_elias_veil.md`)

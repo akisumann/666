@@ -37,3 +37,7 @@
 ## よく接する人物
 
 - 仁礼(骨鳴り墓原の視察のたびに状況を聞き取られる、双槌の聖戦修道女団のベテラン修道女。`characters/npcs/49_ninrei.md`)
+- クラリス・ヴァイスフェルト(同じ中央区で執務する領主。`characters/npcs/01_clarisse_weissfeld.md`)
+- エイダ・ロックウェル(アンデッド関連の事件で連携する衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+- ルカ・フェンネル(伝令でよく浄化院に顔を出す若手騎士。`characters/npcs/05_luca_fennel.md`)
+- マモリ(同じ中央区で働く領主専属護衛。`characters/npcs/41_mamori.md`)

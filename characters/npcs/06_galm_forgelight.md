@@ -61,6 +61,14 @@
 
 冒険者ギルド支部長ダリオ・ラングフォード(`characters/npcs/07_dario_langford.md`)とは、冒険者向け武具の修理・整備の窓口として付き合いがある。
 
+## よく接する人物
+
+- ヴァレリア・グレンツ(特大剣の整備を任されている可能性のある領主騎士団長。`characters/npcs/03_valeria_grenz.md`)
+- ダリオ・ラングフォード(冒険者向け武具の修理・整備の窓口となる支部長。`characters/npcs/07_dario_langford.md`)
+- ミルカ(同じ南区工房街の薬品職人。`characters/npcs/13_mika.md`)
+- セレナ・ギアフォード(南区の職人仲間。大型注文で連携する。`characters/npcs/26_serena_gearford.md`)
+- アルティメットツギハギアイアンくん(年次追加改修祭で毎年部品を持ち寄る南区の象徴。`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
+
 ## 主人公への態度
 
 主人公の武器や装備に興味を示す。珍しい武器や特殊な素材、戦闘様式には職人として強い関心を持つ。

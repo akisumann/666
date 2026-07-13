@@ -72,3 +72,6 @@
 
 - リエラ(紹介の際に立ち位置管理の注意を添えてくれるギルド受付職員。`characters/npcs/17_riera.md`)
 - ダリオ・ラングフォード(実力を高く評価してくれる支部長。`characters/npcs/07_dario_langford.md`)
+- 空咲(北区拠点の空輸屋。依頼で顔を合わせる。`characters/npcs/39_sorasaki.md`)
+- 九重とクサビ(北区滞在中の旅の二人組。臨時パーティーになり得る。`characters/npcs/50_kokonoe.md`、`characters/npcs/51_kusabi.md`)
+- 統制パーティー(北区拠点の同格パーティー。`characters/npcs/31_mizushiro.md`)

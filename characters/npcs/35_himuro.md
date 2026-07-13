@@ -65,3 +65,10 @@
 西区で顔を合わせるうちにツバキ・天雷と自然に飲み仲間になった。アスカ(`world/crossroad/32_black_needle_society.md`)とは黒針会絡みの揉め事処理で顔を合わせたのがきっかけで、以来なんとなく縁が続いている。
 
 四人はギルドに「狩人パーティー」名義で登録しており、時折まとまって依頼を受けることもある。ただし普段からべったり四人で行動しているわけではなく、日常ではそれぞれ別々に過ごしていることの方が多い。
+
+## よく接する人物
+
+- ツバキ、天雷(狩人パーティーの仲間。西区で自然に飲み仲間になった。`characters/npcs/36_tsubaki.md`、`characters/npcs/37_tenrai.md`)
+- アスカ(黒針会絡みの揉め事処理で縁が続いている幹部。`world/crossroad/32_black_needle_society.md`)
+- ヴィヴィアナ・ラウドベル(実況でたびたび取り上げてくれる専属実況者。`characters/npcs/24_viviana_loudbell.md`)
+- 蒼龍(練兵場で顔を合わせる統制パーティーの前衛。`characters/npcs/32_souryuu.md`)

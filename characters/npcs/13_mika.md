@@ -55,3 +55,6 @@
 
 - ガルム・フォージライト(同じ南区工房街の鍛冶師。工房が近く顔なじみ。`characters/npcs/06_galm_forgelight.md`)
 - セレナ・ギアフォード(南区の職人仲間。《仕掛屋・六番工房》店主。`characters/npcs/26_serena_gearford.md`)
+- ミレイ(東区/南区境の魔法サークル取りまとめ役。近隣で顔なじみ。`characters/npcs/18_milei.md`)
+- アルティメットツギハギアイアンくん(年次追加改修祭で部品を持ち寄る南区の象徴。`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
+- ダリオ・ラングフォード(素材買取と工房を繋ぐ冒険者ギルド支部長。`characters/npcs/07_dario_langford.md`)

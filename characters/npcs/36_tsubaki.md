@@ -65,3 +65,9 @@
 西区で氷室・天雷と顔を合わせるうちに自然と一緒に依頼を受けるようになった。アスカ(`world/crossroad/32_black_needle_society.md`)とは互いの生業柄、裏路地の情報交換で顔見知りになった。
 
 四人はギルドに「狩人パーティー」名義で登録しており、時折まとまって依頼を受けることもある。ただし普段からべったり四人で行動しているわけではなく、日常ではそれぞれ別々に過ごしていることの方が多い。
+
+## よく接する人物
+
+- 氷室、天雷(狩人パーティーの仲間。`characters/npcs/35_himuro.md`、`characters/npcs/37_tenrai.md`)
+- アスカ(裏路地の情報交換で顔見知りになった黒針会の幹部。`world/crossroad/32_black_needle_society.md`)
+- 紅葉、黒羽(西区の練兵場で見かける旅の騎士たち。`characters/npcs/43_momiji.md`、`characters/npcs/44_kokuu.md`)

@@ -47,6 +47,14 @@ SPDが高めで、伝令や現場急行に向く。戦闘力はまだ発展途�
 
 エイダ(`characters/npcs/04_ada_lockwell.md`)にはよく現場対応を教わっている。ミレーヌ(`characters/npcs/02_milene_weissfeld.md`)のことは怖いが、なぜか気に入られてよくからかわれる。
 
+## よく接する人物
+
+- ヴァレリア・グレンツ(尊敬している領主騎士団長。`characters/npcs/03_valeria_grenz.md`)
+- クラリス・ヴァイスフェルト(緊張してしまう領主。`characters/npcs/01_clarisse_weissfeld.md`)
+- エイダ・ロックウェル(現場対応を教わっている衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+- ミレーヌ・ヴァイスフェルト(怖いが気に入られてよくからかわれる歓楽街組合トップ。`characters/npcs/02_milene_weissfeld.md`)
+- マモリ(同じ領主騎士団に所属する同僚。`characters/npcs/41_mamori.md`)
+
 ## 主人公への態度
 
 主人公をかなり強い冒険者として見ている。礼儀正しく接する。

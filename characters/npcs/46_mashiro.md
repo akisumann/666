@@ -63,3 +63,5 @@
 ## よく接する人物
 
 - 泡姫、徒然、芍薬(下水道の仲間。四人で顔を突き合わせて過ごしている。`characters/npcs/40_awahime.md`、`characters/npcs/47_tsurezure.md`、`characters/npcs/48_shakuyaku.md`)
+- マリナ(下水道絡みの噂を扱うことがある東区の世話役。`characters/npcs/11_marina.md`)
+- ボルガン・ガルド(芍薬繋がりで間接的に認識している北区商業組合長。`characters/npcs/29_vorgan_gard.md`)

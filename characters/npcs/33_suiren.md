@@ -61,3 +61,9 @@
 ## 相互関係
 
 蒼龍とは物静か同士で気が合い、並んで過ごすことが多い。水城には全幅の信頼を寄せ、指示にはほぼ即座に従う。青葉の勢いに時々振り回されるが、悪い感情は持っていない。
+
+## よく接する人物
+
+- 蒼龍、水城、青葉(統制パーティーの仲間。`characters/npcs/32_souryuu.md`、`characters/npcs/31_mizushiro.md`、`characters/npcs/34_aoba.md`)
+- リエラ(「実は一番頼りになる子」と評してくれるギルド受付職員。`characters/npcs/17_riera.md`)
+- 鈴代(水生植物の観察中に東区の水路で顔を合わせそうな人魚の詩人。`characters/npcs/45_suzuyo.md`)

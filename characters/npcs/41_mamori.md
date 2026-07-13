@@ -70,3 +70,6 @@
 
 - クラリス・ヴァイスフェルト(専属護衛を務める領主。`characters/npcs/01_clarisse_weissfeld.md`)
 - ヴァレリア・グレンツ(信頼を寄せてくれる領主騎士団長。`characters/npcs/03_valeria_grenz.md`)
+- ルカ・フェンネル(同じ領主騎士団に所属する若手同僚。`characters/npcs/05_luca_fennel.md`)
+- セリア(同じ中央区で働く浄化院の窓口担当。`characters/npcs/09_celia.md`)
+- エイダ・ロックウェル(中央区で連携する衛兵隊長。`characters/npcs/04_ada_lockwell.md`)

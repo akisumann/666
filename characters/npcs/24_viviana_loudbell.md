@@ -130,6 +130,8 @@
 
 - 氷室(コロッセオ専属剣闘士。実況でたびたび取り上げる古株選手。`characters/npcs/35_himuro.md`)
 - 蒼龍、青葉(統制パーティーの選手。「受け流しの蒼龍」「水球の青葉」の通り名を実況で広めた。`characters/npcs/32_souryuu.md`、`characters/npcs/34_aoba.md`)
+- レオン・グレイヴ(西区の顔役同士、噂話でお互いを知っているカジノの勝負師。`characters/npcs/25_leon_grave.md`)
+- エリアス・ヴェイル(大劇場の特別公演案内で協力する劇作家。`characters/npcs/23_elias_veil.md`)
 
 ## シナリオでの役割
 

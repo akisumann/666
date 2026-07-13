@@ -61,3 +61,7 @@
 ## よく接する人物
 
 - ロゼとリゼ(同じ盗人でも、黒針会にも徒党にも属さない小夜とは違い組織的に動く姉妹。深い付き合いはない。`characters/npcs/12_roze_and_rize.md`)
+- マリナ(軒先荒らしの噂を聞きつける立場にある東区の世話役。`characters/npcs/11_marina.md`)
+- エイダ・ロックウェル(いずれ本格的な捜索対象になりかねない衛兵隊長。`characters/npcs/04_ada_lockwell.md`)
+- 鈴代(東区で見かける顔。井戸端の噂話で名前が挙がることがある。`characters/npcs/45_suzuyo.md`)
+- ミレイ(隠れ家にしている空き家の近くにある魔法サークルの取りまとめ役。`characters/npcs/18_milei.md`)
