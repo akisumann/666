@@ -211,6 +211,7 @@
 - ロゼとリゼ(盗人姉妹。北区・西区・裏路地を中心に活動。`characters/npcs/12_roze_and_rize.md`)
 - ボルガン・ガルド(北区商業組合長・ガルド大商会会頭。北区商業の実質的な顔役。`characters/npcs/29_vorgan_gard.md`)
 - 統制パーティー(アクア・フロウの貴族令嬢一行。白鳩楼を拠点にギルド登録済み。水城・蒼龍・睡蓮・青葉の四人。`characters/npcs/31_mizushiro.md`ほか)
+- 空咲(独立の空輸便利屋。荷馬車駅外れの空き地を離着陸場代わりにする。`characters/npcs/39_sorasaki.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 

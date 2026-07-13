@@ -47,6 +47,7 @@
 | 忍びのツバキ | ツバキ | 斥候系冒険者(`characters/npcs/36_tsubaki.md`) |
 | 一射の天雷 | 天雷 | 出稼ぎの弓手(`characters/npcs/37_tenrai.md`) |
 | 裏路地の小夜 | 小夜 | 独立のコソ泥(`characters/npcs/38_sayo.md`) |
+| 空輸の空咲 | 空咲 | 独立の空輸便利屋(`characters/npcs/39_sorasaki.md`) |
 
 ## 独自の通り名を持つ者
 
