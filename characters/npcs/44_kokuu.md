@@ -63,3 +63,8 @@
 ## 街や組織での立場
 
 練兵場では紅葉とセットで顔を覚えられつつあり、「無茶な竜翼人と、それを諌める眼鏡の天狗」という組み合わせで見られている。氷室(`characters/npcs/35_himuro.md`)や蒼龍(`characters/npcs/32_souryuu.md`)とも練兵場で顔見知り程度の間柄。
+
+## よく接する人物
+
+- 紅葉(旅の同行者。空中では息の合った連携を見せる相棒。`characters/npcs/43_momiji.md`)
+- 氷室、蒼龍(練兵場で顔見知りになった冒険者たち。`characters/npcs/35_himuro.md`、`characters/npcs/32_souryuu.md`)
