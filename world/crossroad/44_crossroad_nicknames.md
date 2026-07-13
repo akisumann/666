@@ -52,6 +52,7 @@
 | 双楯のマモリ | マモリ | 領主クラリス専属護衛(`characters/npcs/41_mamori.md`) |
 | 横一線の唯一 | 唯一 | ソロ冒険者・雑魚討伐の臨時要員(`characters/npcs/42_yuiitsu.md`) |
 | 猪突の紅葉 | 紅葉 | 武者修行中の旅の騎士(`characters/npcs/43_momiji.md`) |
+| 規律の黒羽 | 黒羽 | 紅葉の旅の同行者・天狗の剣士(`characters/npcs/44_kokuu.md`) |
 
 ## 独自の通り名を持つ者
 
