@@ -108,6 +108,7 @@
 - ルカ・フェンネル(若手騎士・現場連絡役。`characters/npcs/05_luca_fennel.md`)
 - マモリ(領主クラリス専属護衛。`characters/npcs/41_mamori.md`)
 - セリア(浄化院の窓口。`characters/npcs/09_celia.md`)
+- 仁礼(双槌の聖戦修道女団のベテラン。骨鳴り墓原の視察で時折浄化院に滞在。`characters/npcs/49_ninrei.md`)
 
 ### 主な施設(具体的な店舗・拠点)
 
