@@ -43,6 +43,9 @@
 | 受け流しの蒼龍 | 蒼龍 | 「統制パーティー」前衛(`characters/npcs/32_souryuu.md`) |
 | 静穏の睡蓮 | 睡蓮 | 「統制パーティー」中衛・戦場制御役(`characters/npcs/33_suiren.md`) |
 | 水球の青葉 | 青葉 | 「統制パーティー」後衛・決定打役(`characters/npcs/34_aoba.md`) |
+| 氷装甲の氷室 | 氷室 | コロッセオ専属剣闘士・住み込み(`characters/npcs/35_himuro.md`) |
+| 忍びのツバキ | ツバキ | 斥候系冒険者(`characters/npcs/36_tsubaki.md`) |
+| 一射の天雷 | 天雷 | 出稼ぎの弓手(`characters/npcs/37_tenrai.md`) |
 
 ## 独自の通り名を持つ者
 
