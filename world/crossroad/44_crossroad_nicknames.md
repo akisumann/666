@@ -39,6 +39,10 @@
 | 劇作家のエリアス | エリアス・ヴェイル | 巡業劇団《渡り灯一座》専属脚本家(`characters/npcs/23_elias_veil.md`) |
 | 爆声のヴィヴィアナ | ヴィヴィアナ・ラウドベル | コロッセオ専属実況者(`characters/npcs/24_viviana_loudbell.md`) |
 | 仕掛屋のセレナ | セレナ・ギアフォード | 特殊機構工房《仕掛屋・六番工房》店主(`characters/npcs/26_serena_gearford.md`) |
+| 統率のミズシロ | 水城 | アクア・フロウ貴族令嬢一行「統制パーティー」隊長(`characters/npcs/31_mizushiro.md`) |
+| 受け流しの蒼龍 | 蒼龍 | 「統制パーティー」前衛(`characters/npcs/32_souryuu.md`) |
+| 静穏の睡蓮 | 睡蓮 | 「統制パーティー」中衛・戦場制御役(`characters/npcs/33_suiren.md`) |
+| 水球の青葉 | 青葉 | 「統制パーティー」後衛・決定打役(`characters/npcs/34_aoba.md`) |
 
 ## 独自の通り名を持つ者
 
