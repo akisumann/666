@@ -116,7 +116,7 @@
 
 数百年で何度も繰り返してきた「引っ越し」の中でも、今回はかなり慌ただしい部類。荷物らしい荷物もほとんど持ち出せず、這々の体で火山地帯を離れた末、たどり着いたのがクロスロードだった。
 
-現在はクロスロード南区の廃研究施設に潜んでいる(`characters/npcs/52_kohaku.md`、`characters/npcs/53_hakkin.md`、`characters/npcs/54_ginsetsu.md`、`characters/npcs/55_dakki.md`)。この街では無名の存在であり、今のところ誰にも正体を気づかれていない。
+現在はクロスロード南区の廃研究施設を拠点にしている(`characters/npcs/52_kohaku.md`、`characters/npcs/53_hakkin.md`、`characters/npcs/54_ginsetsu.md`、`characters/npcs/55_dakki.md`)。火山地帯から十分に距離を置けたため、もう隠れ潜む必要はないと判断しており、周辺住民ともそれなりに交流しながら街に根付き始めている。知られていないのは、あくまで火山の国で悪事に手を染めていたという過去だけである。
 
 ### 編成の流動性
 
