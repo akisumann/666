@@ -49,6 +49,7 @@
 | 裏路地の小夜 | 小夜 | 独立のコソ泥(`characters/npcs/38_sayo.md`) |
 | 空輸の空咲 | 空咲 | 独立の空輸便利屋(`characters/npcs/39_sorasaki.md`) |
 | 下水道の泡姫 | 泡姫 | 下水道に住み着いた自称・管理人(`characters/npcs/40_awahime.md`) |
+| 双楯のマモリ | マモリ | 領主クラリス専属護衛(`characters/npcs/41_mamori.md`) |
 
 ## 独自の通り名を持つ者
 

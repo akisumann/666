@@ -106,6 +106,7 @@
 - ヴァレリア・グレンツ(領主騎士団長。`characters/npcs/03_valeria_grenz.md`)
 - エイダ・ロックウェル(衛兵隊長、衛兵本部。`characters/npcs/04_ada_lockwell.md`)
 - ルカ・フェンネル(若手騎士・現場連絡役。`characters/npcs/05_luca_fennel.md`)
+- マモリ(領主クラリス専属護衛。`characters/npcs/41_mamori.md`)
 - セリア(浄化院の窓口。`characters/npcs/09_celia.md`)
 
 ### 主な施設(具体的な店舗・拠点)
