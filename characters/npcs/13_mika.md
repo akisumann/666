@@ -66,6 +66,6 @@
 - ミレイ(東区/南区境の魔法サークル取りまとめ役。近隣で顔なじみ。`characters/npcs/18_milei.md`)
 - アルティメットツギハギアイアンくん(年次追加改修祭で部品を持ち寄る南区の象徴。`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
 - ダリオ・ラングフォード(素材買取と工房を繋ぐ冒険者ギルド支部長。`characters/npcs/07_dario_langford.md`)
-- 琥珀(廃研究施設を拠点にする錬金術師。似た者同士でたまに材料を融通し合う。`characters/npcs/52_kohaku.md`)
+- 琥珀(廃研究施設を拠点にする錬金術師。似た者同士でたまに材料を融通し合い、調合で行き詰まった難物を琥珀へ回すこともある。`characters/npcs/52_kohaku.md`)
 - 銀雪(廃研究施設のリビングアーマー。のんびりした空気が合う。`characters/npcs/54_ginsetsu.md`)
 - 妲己(廃研究施設の生体兵装。気だるいながらも顔を合わせる。`characters/npcs/55_dakki.md`)

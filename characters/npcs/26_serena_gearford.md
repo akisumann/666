@@ -73,7 +73,7 @@
 - アルティメットツギハギアイアンくん(年次追加改修祭に参加する南区の象徴。`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
 - ボルガン・ガルド(特注品を注文することがある北区商業組合長。`characters/npcs/29_vorgan_gard.md`)
 - ミレーヌ・ヴァイスフェルト(成人向け付与品などを注文する西区の取引先。`characters/npcs/02_milene_weissfeld.md`)
-- 琥珀(廃研究施設を拠点にする錬金術師。機械の話が合う相手。`characters/npcs/52_kohaku.md`)
+- 琥珀(廃研究施設を拠点にする錬金術師。機械の話が合う相手で、仕掛屋でも解けない古い魔道具の不具合を琥珀へ回すことがある。`characters/npcs/52_kohaku.md`)
 - 白金(廃研究施設のメイドロボ。機械の扱いで話が合う。`characters/npcs/53_hakkin.md`)
 
 ## シナリオでの役割

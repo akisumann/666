@@ -76,7 +76,7 @@
 - ミルカ(同じ南区工房街の薬品職人。`characters/npcs/13_mika.md`)
 - セレナ・ギアフォード(南区の職人仲間。大型注文で連携する。`characters/npcs/26_serena_gearford.md`)
 - アルティメットツギハギアイアンくん(年次追加改修祭で毎年部品を持ち寄る南区の象徴。`characters/npcs/30_ultimate_patchwork_iron_kun.md`)
-- 琥珀(廃研究施設を拠点にする錬金術師。腕を認め合っている。`characters/npcs/52_kohaku.md`)
+- 琥珀(廃研究施設を拠点にする錬金術師。腕を認め合っており、自分でも打ち直せない複雑な機構物は琥珀へ回すことがある。`characters/npcs/52_kohaku.md`)
 - 白金(重い資材の運搬を頼むことがあるメイドロボ。`characters/npcs/53_hakkin.md`)
 
 ## 主人公への態度
