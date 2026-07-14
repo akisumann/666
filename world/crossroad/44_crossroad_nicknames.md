@@ -60,6 +60,10 @@
 | 巡回のシスター | 仁礼 | 双槌の聖戦修道女団のベテラン(`characters/npcs/49_ninrei.md`) |
 | 九槍の九重 | 九重 | 旅の投槍魔導士・クサビの幼馴染(`characters/npcs/50_kokonoe.md`) |
 | 結界のクサビ | クサビ | 旅の巫女・九重の幼馴染(`characters/npcs/51_kusabi.md`) |
+| 廃研の琥珀 | 琥珀 | 南区の廃研究施設を拠点にする錬金術師(`characters/npcs/52_kohaku.md`) |
+| 怪力の白金 | 白金 | 廃研究施設のメイドロボ(`characters/npcs/53_hakkin.md`) |
+| 空鎧の銀雪 | 銀雪 | 廃研究施設のリビングアーマー(`characters/npcs/54_ginsetsu.md`) |
+| 気怠げの妲己 | 妲己 | 廃研究施設の生体兵装(`characters/npcs/55_dakki.md`) |
 
 ## 独自の通り名を持つ者
 

@@ -54,3 +54,4 @@
 - ララ、カーラ(東区の学校に通う地域の子供として世話を焼く相手。`characters/npcs/27_lara.md`、`characters/npcs/28_karla.md`)
 - 小夜(軒先荒らしの噂を聞きつける立場にある東区のコソ泥。`characters/npcs/38_sayo.md`)
 - 泡姫(下水道の異変や落とし物の相談を持ちかけられることがある住み着き。`characters/npcs/40_awahime.md`)
+- 銀雪(廃研究施設のリビングアーマー。世間話でよく顔を合わせる。`characters/npcs/54_ginsetsu.md`)

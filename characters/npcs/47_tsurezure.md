@@ -67,3 +67,5 @@
 - 泡姫、真白、芍薬(下水道の仲間。四人でいる時だけ怯えた表情も和らぐ。`characters/npcs/40_awahime.md`、`characters/npcs/46_mashiro.md`、`characters/npcs/48_shakuyaku.md`)
 - マリナ(下水道絡みの噂を扱うことがある東区の世話役。`characters/npcs/11_marina.md`)
 - ボルガン・ガルド(芍薬繋がりで間接的に認識している北区商業組合長。`characters/npcs/29_vorgan_gard.md`)
+- 銀雪(廃研究施設のリビングアーマー。似た静かな気質同士、通じるものがある。`characters/npcs/54_ginsetsu.md`)
+- 妲己(廃研究施設の生体兵装。のんびりした空気を共有する。`characters/npcs/55_dakki.md`)

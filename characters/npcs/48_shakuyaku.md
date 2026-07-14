@@ -102,3 +102,4 @@ Lv65は英雄級に相当する規格外の力であり、真面目に運用す�
 - ボルガン・ガルド(極上の鉱脈をちらつかせて手元に置く北区商業組合長。`characters/npcs/29_vorgan_gard.md`)
 - 泡姫、真白、徒然(下水道の四人組。`characters/npcs/40_awahime.md`、`characters/npcs/46_mashiro.md`、`characters/npcs/47_tsurezure.md`)
 - マリナ(下水道絡みの相談を受けることがある東区の世話役。`characters/npcs/11_marina.md`)
+- 琥珀(廃研究施設を拠点にする錬金術師。良質な鉱物を時々分けてやっている。`characters/npcs/52_kohaku.md`)
