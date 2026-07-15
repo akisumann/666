@@ -97,6 +97,7 @@
 - マリナ(東区の世話役。地域の子供として見守られている。`characters/npcs/11_marina.md`)
 - 鈴代(井戸端で顔を合わせる東区の吟遊詩人。`characters/npcs/45_suzuyo.md`)
 - エルシア(ララ経由で間接的に認識している術師会の会員。`characters/npcs/21_elsia.md`)
+- 小夜(跳ぶ先を読んで取り押さえた東区のコソ泥。今は味方転移で危ない位置から引き戻してくれる相手。`characters/npcs/38_sayo.md`)
 
 ## ララとの関係
 
